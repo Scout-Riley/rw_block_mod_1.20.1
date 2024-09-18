@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "rw_block_mod:block/chaos_worn_5",
+    "side": "rw_block_mod:block/chaos_worn_5",
+    "top": "rw_block_mod:block/chaos_worn_5"
+  }
+}

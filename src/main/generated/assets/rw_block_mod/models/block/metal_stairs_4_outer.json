@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "rw_block_mod:block/metal_4",
+    "side": "rw_block_mod:block/metal_4",
+    "top": "rw_block_mod:block/metal_4"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "rw_block_mod:block/bigmetal_worn_4",
+    "side": "rw_block_mod:block/bigmetal_worn_4",
+    "top": "rw_block_mod:block/bigmetal_worn_4"
+  }
+}

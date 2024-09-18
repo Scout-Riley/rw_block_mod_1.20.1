@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/fence_inventory",
+  "textures": {
+    "texture": "rw_block_mod:block/bigmetal_worn_4"
+  }
+}

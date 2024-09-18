@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "rw_block_mod:block/rainstone_clean_3",
+    "side": "rw_block_mod:block/rainstone_clean_3",
+    "top": "rw_block_mod:block/rainstone_clean_3"
+  }
+}

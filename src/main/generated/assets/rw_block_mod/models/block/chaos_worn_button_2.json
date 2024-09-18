@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button",
+  "textures": {
+    "texture": "rw_block_mod:block/chaos_worn_2"
+  }
+}

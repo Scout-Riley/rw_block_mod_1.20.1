@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button_pressed",
+  "textures": {
+    "texture": "rw_block_mod:block/concrete_clean_5"
+  }
+}

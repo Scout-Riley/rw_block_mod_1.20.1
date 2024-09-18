@@ -1,0 +1,253 @@
+package net.scout.rw_block_mod.datagen;
+
+import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
+import net.fabricmc.fabric.api.datagen.v1.provider.FabricTagProvider;
+import net.minecraft.registry.RegistryWrapper;
+import net.minecraft.registry.tag.BlockTags;
+import net.scout.rw_block_mod.block.ModBlocks;
+
+import java.util.concurrent.CompletableFuture;
+
+public class ModBlockTagProvider extends FabricTagProvider.BlockTagProvider {
+
+    public ModBlockTagProvider(FabricDataOutput output, CompletableFuture<RegistryWrapper.WrapperLookup> registriesFuture) {
+        super(output, registriesFuture);
+    }
+
+    @Override
+    protected void configure(RegistryWrapper.WrapperLookup arg) {
+
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.BIG_BRICKS_WORN_WALL_1);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.BIG_BRICKS_WORN_WALL_2);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.BIG_BRICKS_WORN_WALL_3);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.BIG_BRICKS_WORN_WALL_4);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.BIG_BRICKS_WORN_WALL_5);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.BIG_BRICKS_WORN_WALL_6);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.BIGMETAL_CLEAN_WALL_1);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.BIGMETAL_CLEAN_WALL_2);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.BIGMETAL_CLEAN_WALL_3);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.BIGMETAL_CLEAN_WALL_4);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.BIGMETAL_CLEAN_WALL_5);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.BIGMETAL_CLEAN_WALL_6);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.BIGMETAL_WORN_WALL_1);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.BIGMETAL_WORN_WALL_2);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.BIGMETAL_WORN_WALL_3);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.BIGMETAL_WORN_WALL_4);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.BIGMETAL_WORN_WALL_5);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.BIGMETAL_WORN_WALL_6);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.BRICKS_WORN_WALL_1);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.BRICKS_WORN_WALL_2);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.BRICKS_WORN_WALL_3);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.BRICKS_WORN_WALL_4);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.BRICKS_WORN_WALL_5);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.BRICKS_WORN_WALL_6);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.CHAOS_WORN_WALL_1);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.CHAOS_WORN_WALL_2);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.CHAOS_WORN_WALL_3);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.CHAOS_WORN_WALL_4);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.CHAOS_WORN_WALL_5);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.CHAOS_WORN_WALL_6);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.CONCRETE_CLEAN_WALL_1);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.CONCRETE_CLEAN_WALL_2);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.CONCRETE_CLEAN_WALL_3);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.CONCRETE_CLEAN_WALL_4);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.CONCRETE_CLEAN_WALL_5);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.CONCRETE_CLEAN_WALL_6);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.METAL_WALL_1);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.METAL_WALL_2);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.METAL_WALL_3);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.METAL_WALL_4);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.METAL_WALL_5);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.METAL_WALL_6);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.RAINSTONE_CLEAN_WALL_1);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.RAINSTONE_CLEAN_WALL_2);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.RAINSTONE_CLEAN_WALL_3);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.RAINSTONE_CLEAN_WALL_4);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.RAINSTONE_CLEAN_WALL_5);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.RAINSTONE_CLEAN_WALL_6);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.RANDOM_MACHINES_WALL_1);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.SMALL_PIPES_CLEAN_WALL_1);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.SMALL_PIPES_WORN_WALL_1);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.TRASH_CLEAN_WALL_1);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.TRASH_CLEAN_WALL_2);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.TRASH_CLEAN_WALL_3);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.TRASH_CLEAN_WALL_4);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.TRASH_CLEAN_WALL_5);
+               getOrCreateTagBuilder(BlockTags.WALLS)
+.add(ModBlocks.TRASH_CLEAN_WALL_6);
+
+
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.BIG_BRICKS_WORN_FENCE_1);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.BIG_BRICKS_WORN_FENCE_2);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.BIG_BRICKS_WORN_FENCE_3);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.BIG_BRICKS_WORN_FENCE_4);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.BIG_BRICKS_WORN_FENCE_5);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.BIG_BRICKS_WORN_FENCE_6);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.BIGMETAL_CLEAN_FENCE_1);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.BIGMETAL_CLEAN_FENCE_2);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.BIGMETAL_CLEAN_FENCE_3);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.BIGMETAL_CLEAN_FENCE_4);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.BIGMETAL_CLEAN_FENCE_5);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.BIGMETAL_CLEAN_FENCE_6);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.BIGMETAL_WORN_FENCE_1);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.BIGMETAL_WORN_FENCE_2);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.BIGMETAL_WORN_FENCE_3);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.BIGMETAL_WORN_FENCE_4);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.BIGMETAL_WORN_FENCE_5);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.BIGMETAL_WORN_FENCE_6);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.BRICKS_WORN_FENCE_1);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.BRICKS_WORN_FENCE_2);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.BRICKS_WORN_FENCE_3);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.BRICKS_WORN_FENCE_4);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.BRICKS_WORN_FENCE_5);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.BRICKS_WORN_FENCE_6);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.CHAOS_WORN_FENCE_1);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.CHAOS_WORN_FENCE_2);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.CHAOS_WORN_FENCE_3);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.CHAOS_WORN_FENCE_4);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.CHAOS_WORN_FENCE_5);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.CHAOS_WORN_FENCE_6);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.CONCRETE_CLEAN_FENCE_1);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.CONCRETE_CLEAN_FENCE_2);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.CONCRETE_CLEAN_FENCE_3);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.CONCRETE_CLEAN_FENCE_4);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.CONCRETE_CLEAN_FENCE_5);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.CONCRETE_CLEAN_FENCE_6);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.METAL_FENCE_1);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.METAL_FENCE_2);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.METAL_FENCE_3);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.METAL_FENCE_4);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.METAL_FENCE_5);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.METAL_FENCE_6);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.RAINSTONE_CLEAN_FENCE_1);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.RAINSTONE_CLEAN_FENCE_2);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.RAINSTONE_CLEAN_FENCE_3);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.RAINSTONE_CLEAN_FENCE_4);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.RAINSTONE_CLEAN_FENCE_5);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.RAINSTONE_CLEAN_FENCE_6);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.RANDOM_MACHINES_FENCE_1);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.SMALL_PIPES_CLEAN_FENCE_1);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.SMALL_PIPES_WORN_FENCE_1);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.TRASH_CLEAN_FENCE_1);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.TRASH_CLEAN_FENCE_2);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.TRASH_CLEAN_FENCE_3);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.TRASH_CLEAN_FENCE_4);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.TRASH_CLEAN_FENCE_5);
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.TRASH_CLEAN_FENCE_6);
+
+
+    }
+}

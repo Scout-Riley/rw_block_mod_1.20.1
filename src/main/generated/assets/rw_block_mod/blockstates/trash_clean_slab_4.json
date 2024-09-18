@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "rw_block_mod:block/trash_clean_slab_4"
+    },
+    "type=double": {
+      "model": "rw_block_mod:block/trash_clean_4"
+    },
+    "type=top": {
+      "model": "rw_block_mod:block/trash_clean_slab_4_top"
+    }
+  }
+}

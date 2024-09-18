@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "rw_block_mod:block/concrete_clean_slab_3"
+    },
+    "type=double": {
+      "model": "rw_block_mod:block/concrete_clean_3"
+    },
+    "type=top": {
+      "model": "rw_block_mod:block/concrete_clean_slab_3_top"
+    }
+  }
+}

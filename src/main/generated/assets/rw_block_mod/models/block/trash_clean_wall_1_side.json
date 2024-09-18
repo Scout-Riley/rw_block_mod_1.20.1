@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_wall_side",
+  "textures": {
+    "wall": "rw_block_mod:block/trash_clean_1"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "rw_block_mod:block/metal_slab_4"
+    },
+    "type=double": {
+      "model": "rw_block_mod:block/metal_4"
+    },
+    "type=top": {
+      "model": "rw_block_mod:block/metal_slab_4_top"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "rw_block_mod:block/trash_clean_5",
+    "side": "rw_block_mod:block/trash_clean_5",
+    "top": "rw_block_mod:block/trash_clean_5"
+  }
+}

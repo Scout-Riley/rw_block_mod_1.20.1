@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "rw_block_mod:block/trash_clean_1"
+  }
+}
