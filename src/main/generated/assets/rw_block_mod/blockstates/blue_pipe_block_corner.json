@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "rw_block_mod:block/blue_pipe_block_corner_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "rw_block_mod:block/blue_pipe_block_corner"
+    },
+    "axis=z": {
+      "model": "rw_block_mod:block/blue_pipe_block_corner_horizontal",
+      "x": 90
+    }
+  }
+}

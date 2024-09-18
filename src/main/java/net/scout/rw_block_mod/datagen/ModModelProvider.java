@@ -4,6 +4,7 @@ import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
 import net.fabricmc.fabric.api.datagen.v1.provider.FabricModelProvider;
 import net.minecraft.data.client.BlockStateModelGenerator;
 import net.minecraft.data.client.ItemModelGenerator;
+import net.minecraft.data.client.TexturedModel;
 import net.scout.rw_block_mod.block.ModBlocks;
 
 public class ModModelProvider extends FabricModelProvider {
@@ -14,6 +15,31 @@ public class ModModelProvider extends FabricModelProvider {
     @Override
 
     public void generateBlockStateModels(BlockStateModelGenerator blockStateModelGenerator) {
+
+
+        blockStateModelGenerator.registerAxisRotated(ModBlocks.GREEN_PIPE, TexturedModel.END_FOR_TOP_CUBE_COLUMN, TexturedModel.END_FOR_TOP_CUBE_COLUMN_HORIZONTAL);
+        blockStateModelGenerator.registerAxisRotated(ModBlocks.GRAY_PIPE, TexturedModel.END_FOR_TOP_CUBE_COLUMN, TexturedModel.END_FOR_TOP_CUBE_COLUMN_HORIZONTAL);
+        blockStateModelGenerator.registerAxisRotated(ModBlocks.BLUE_PIPE, TexturedModel.END_FOR_TOP_CUBE_COLUMN, TexturedModel.END_FOR_TOP_CUBE_COLUMN_HORIZONTAL);
+        blockStateModelGenerator.registerAxisRotated(ModBlocks.BROWN_PIPE, TexturedModel.END_FOR_TOP_CUBE_COLUMN, TexturedModel.END_FOR_TOP_CUBE_COLUMN_HORIZONTAL);
+        blockStateModelGenerator.registerAxisRotated(ModBlocks.RED_PIPE, TexturedModel.END_FOR_TOP_CUBE_COLUMN, TexturedModel.END_FOR_TOP_CUBE_COLUMN_HORIZONTAL);
+        blockStateModelGenerator.registerAxisRotated(ModBlocks.GREEN_PIPE_CORNER, TexturedModel.END_FOR_TOP_CUBE_COLUMN, TexturedModel.END_FOR_TOP_CUBE_COLUMN_HORIZONTAL);
+        blockStateModelGenerator.registerAxisRotated(ModBlocks.GRAY_PIPE_CORNER, TexturedModel.END_FOR_TOP_CUBE_COLUMN, TexturedModel.END_FOR_TOP_CUBE_COLUMN_HORIZONTAL);
+        blockStateModelGenerator.registerAxisRotated(ModBlocks.BLUE_PIPE_CORNER, TexturedModel.END_FOR_TOP_CUBE_COLUMN, TexturedModel.END_FOR_TOP_CUBE_COLUMN_HORIZONTAL);
+        blockStateModelGenerator.registerAxisRotated(ModBlocks.BROWN_PIPE_CORNER, TexturedModel.END_FOR_TOP_CUBE_COLUMN, TexturedModel.END_FOR_TOP_CUBE_COLUMN_HORIZONTAL);
+        blockStateModelGenerator.registerAxisRotated(ModBlocks.RED_PIPE_CORNER, TexturedModel.END_FOR_TOP_CUBE_COLUMN, TexturedModel.END_FOR_TOP_CUBE_COLUMN_HORIZONTAL);
+
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.RED_SHEET_METAL);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.RED_SHEET_METAL_EDGE);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.BLUE_SHEET_METAL);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.BLUE_SHEET_METAL_EDGE);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.GREEN_SHEET_METAL);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.GREEN_SHEET_METAL_EDGE);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.YELLOW_SHEET_METAL);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.YELLOW_SHEET_METAL_EDGE);
+
+
+
+
         BlockStateModelGenerator.BlockTexturePool BIG_BRICKS_WORN_1 = blockStateModelGenerator.registerCubeAllModelTexturePool(ModBlocks.BIG_BRICKS_WORN_1);
         BlockStateModelGenerator.BlockTexturePool BIG_BRICKS_WORN_2 = blockStateModelGenerator.registerCubeAllModelTexturePool(ModBlocks.BIG_BRICKS_WORN_2);
         BlockStateModelGenerator.BlockTexturePool BIG_BRICKS_WORN_3 = blockStateModelGenerator.registerCubeAllModelTexturePool(ModBlocks.BIG_BRICKS_WORN_3);

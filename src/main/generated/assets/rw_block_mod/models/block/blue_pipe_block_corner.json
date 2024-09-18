@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "rw_block_mod:block/blue_pipe_block_corner_top",
+    "side": "rw_block_mod:block/blue_pipe_block_corner"
+  }
+}

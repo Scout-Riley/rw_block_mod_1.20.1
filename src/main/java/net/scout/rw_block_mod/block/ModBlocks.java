@@ -11,6 +11,46 @@ import net.minecraft.util.Identifier;
 import net.scout.rw_block_mod.BlockMod;
 
 public class ModBlocks {
+    public static final Block GREEN_PIPE = registerBlock("green_pipe_block_straight",
+            new PillarBlock (FabricBlockSettings.copyOf(Blocks.COBBLESTONE)));
+    public static final Block GREEN_PIPE_CORNER = registerBlock("green_pipe_block_corner",
+            new PillarBlock (FabricBlockSettings.copyOf(Blocks.COBBLESTONE)));
+    public static final Block GRAY_PIPE = registerBlock("gray_pipe_block_straight",
+            new PillarBlock (FabricBlockSettings.copyOf(Blocks.COBBLESTONE)));
+    public static final Block GRAY_PIPE_CORNER = registerBlock("gray_pipe_block_corner",
+            new PillarBlock (FabricBlockSettings.copyOf(Blocks.COBBLESTONE)));
+    public static final Block BROWN_PIPE = registerBlock("brown_pipe_block_straight",
+            new PillarBlock (FabricBlockSettings.copyOf(Blocks.COBBLESTONE)));
+    public static final Block BROWN_PIPE_CORNER = registerBlock("brown_pipe_block_corner",
+            new PillarBlock (FabricBlockSettings.copyOf(Blocks.COBBLESTONE)));
+    public static final Block BLUE_PIPE = registerBlock("blue_pipe_block_straight",
+            new PillarBlock (FabricBlockSettings.copyOf(Blocks.COBBLESTONE)));
+    public static final Block BLUE_PIPE_CORNER = registerBlock("blue_pipe_block_corner",
+            new PillarBlock (FabricBlockSettings.copyOf(Blocks.COBBLESTONE)));
+    public static final Block RED_PIPE = registerBlock("red_pipe_block_straight",
+            new PillarBlock (FabricBlockSettings.copyOf(Blocks.COBBLESTONE)));
+    public static final Block RED_PIPE_CORNER = registerBlock("red_pipe_block_corner",
+            new PillarBlock (FabricBlockSettings.copyOf(Blocks.COBBLESTONE)));
+
+    public static final Block RED_SHEET_METAL = registerBlock("red_sheet_metal",
+            new Block (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
+    public static final Block RED_SHEET_METAL_EDGE = registerBlock("red_sheet_metal_edge",
+            new Block (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
+    public static final Block BLUE_SHEET_METAL = registerBlock("blue_sheet_metal",
+            new Block (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
+    public static final Block BLUE_SHEET_METAL_EDGE = registerBlock("blue_sheet_metal_edge",
+            new Block (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
+    public static final Block GREEN_SHEET_METAL = registerBlock("green_sheet_metal",
+            new Block (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
+    public static final Block GREEN_SHEET_METAL_EDGE = registerBlock("green_sheet_metal_edge",
+            new Block (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
+    public static final Block YELLOW_SHEET_METAL = registerBlock("yellow_sheet_metal",
+            new Block (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
+    public static final Block YELLOW_SHEET_METAL_EDGE = registerBlock("yellow_sheet_metal_edge",
+            new Block (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
+
+
+
     public static final Block BIG_BRICKS_WORN_1 = registerBlock("big_bricks_worn_1",
             new Block (FabricBlockSettings.copyOf(Blocks.COBBLESTONE)));
     public static final Block BIG_BRICKS_WORN_2 = registerBlock("big_bricks_worn_2",
