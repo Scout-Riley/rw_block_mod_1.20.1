@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "": [
+	{  "model": "rw_block_mod:block/cornflower_0", "weight": 10},
+	{  "model": "rw_block_mod:block/cornflower_1", "weight": 10},
+	{  "model": "rw_block_mod:block/cornflower_2", "weight": 10},
+	{  "model": "rw_block_mod:block/cornflower_3", "weight": 10},
+	{  "model": "rw_block_mod:block/cornflower_4", "weight": 10},
+	{  "model": "rw_block_mod:block/cornflower_5", "weight": 10}
+  ]
+ }
+}

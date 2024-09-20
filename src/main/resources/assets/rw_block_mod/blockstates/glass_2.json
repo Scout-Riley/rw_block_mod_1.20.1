@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+	{  "model": "rw_block_mod:block/cyan_stained_glass_0"},
+	{  "model": "rw_block_mod:block/cyan_stained_glass_1"},
+	{  "model": "rw_block_mod:block/cyan_stained_glass_2"},
+	{  "model": "rw_block_mod:block/cyan_stained_glass_3"}
+  ]
+ }
+}

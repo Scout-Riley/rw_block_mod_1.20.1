@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+	{  "model": "rw_block_mod:block/yellow_shipment_edge_0", "weight": 10, "x": 0, "y": 0},
+	{  "model": "rw_block_mod:block/yellow_shipment_edge_1", "weight": 10, "x": 0, "y": 0},
+	{  "model": "rw_block_mod:block/yellow_shipment_edge_2", "weight": 10, "x": 0, "y": 0},
+	{  "model": "rw_block_mod:block/yellow_shipment_edge_3", "weight": 10, "x": 0, "y": 0}
+  ]
+ }
+}

@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+	{  "model": "rw_block_mod:block/deepslate_copper_ore_0", "weight": 10, "x": 0, "y": 0},
+	{  "model": "rw_block_mod:block/deepslate_copper_ore_1", "weight": 10, "x": 0, "y": 0},
+	{  "model": "rw_block_mod:block/deepslate_copper_ore_2", "weight": 10, "x": 0, "y": 0},
+	{  "model": "rw_block_mod:block/deepslate_copper_ore_3", "weight": 10, "x": 0, "y": 0},
+	{  "model": "rw_block_mod:block/deepslate_copper_ore_4", "weight": 10, "x": 0, "y": 0},
+	{  "model": "rw_block_mod:block/deepslate_copper_ore_5", "weight": 10, "x": 0, "y": 0},
+	{  "model": "rw_block_mod:block/deepslate_copper_ore_6", "weight": 10, "x": 0, "y": 0},
+	{  "model": "rw_block_mod:block/deepslate_copper_ore_7", "weight": 10, "x": 0, "y": 0}
+  ]
+ }
+}

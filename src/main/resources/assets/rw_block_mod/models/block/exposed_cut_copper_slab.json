@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "rw_block_mod:block/waxed_exposed_cut_copper",
+    "side": "rw_block_mod:block/waxed_exposed_cut_copper",
+    "top": "rw_block_mod:block/waxed_exposed_cut_copper"
+  }
+}

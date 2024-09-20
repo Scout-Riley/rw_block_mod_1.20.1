@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "rw_block_mod:block/warped_planks_2",
+      "side": "rw_block_mod:block/warped_planks_2",
+       "top": "rw_block_mod:block/warped_planks_2"
+  }
+}

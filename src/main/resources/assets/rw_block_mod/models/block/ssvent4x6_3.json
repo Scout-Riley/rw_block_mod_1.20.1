@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "rw_block_mod:block/ssvent4x6_0",
+		"1": "rw_block_mod:block/ssvent4x6_1",
+		"particle": "rw_block_mod:block/ssvent4x6_0"
+	},
+	"elements": [
+		{
+			"from": [0, -16, -16],
+			"to": [32, 32, 16],
+			"faces": {
+				"north": {"uv": [0, 8, 8, 16], "texture": "#1"},
+				"east": {"uv": [8, 8, 16, 16], "texture": "#0"},
+				"south": {"uv": [8, 8, 16, 16], "texture": "#1"},
+				"west": {"uv": [8, 8, 16, 16], "texture": "#0"},
+				"up": {"uv": [6.8, 0, 10.8, 4], "texture": "#0"},
+				"down": {"uv": [6.4, 12, 10.4, 16], "texture": "#0"}
+			}
+		}
+	]
+}

@@ -28,16 +28,6 @@ public class ModModelProvider extends FabricModelProvider {
         blockStateModelGenerator.registerAxisRotated(ModBlocks.BROWN_PIPE_CORNER, TexturedModel.END_FOR_TOP_CUBE_COLUMN, TexturedModel.END_FOR_TOP_CUBE_COLUMN_HORIZONTAL);
         blockStateModelGenerator.registerAxisRotated(ModBlocks.RED_PIPE_CORNER, TexturedModel.END_FOR_TOP_CUBE_COLUMN, TexturedModel.END_FOR_TOP_CUBE_COLUMN_HORIZONTAL);
 
-        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.RED_SHEET_METAL);
-        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.RED_SHEET_METAL_EDGE);
-        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.BLUE_SHEET_METAL);
-        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.BLUE_SHEET_METAL_EDGE);
-        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.GREEN_SHEET_METAL);
-        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.GREEN_SHEET_METAL_EDGE);
-        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.YELLOW_SHEET_METAL);
-        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.YELLOW_SHEET_METAL_EDGE);
-
-
 
 
         BlockStateModelGenerator.BlockTexturePool BIG_BRICKS_WORN_1 = blockStateModelGenerator.registerCubeAllModelTexturePool(ModBlocks.BIG_BRICKS_WORN_1);

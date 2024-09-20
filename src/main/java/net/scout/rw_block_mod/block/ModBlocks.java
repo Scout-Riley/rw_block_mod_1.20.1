@@ -3,6 +3,7 @@ package net.scout.rw_block_mod.block;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.minecraft.block.*;
+import net.minecraft.entity.effect.StatusEffects;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
 import net.minecraft.registry.Registries;
@@ -11,6 +12,36 @@ import net.minecraft.util.Identifier;
 import net.scout.rw_block_mod.BlockMod;
 
 public class ModBlocks {
+
+    public static final Block BIG_GEAR = registerBlock("big_gear",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block CC_BEAM_HORIZONTAL = registerBlock("cc_beam_horizontal",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
+    public static final Block CC_BEAM_VERTICAL = registerBlock("cc_beam_vertical",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
+
+    public static final Block LICHEN = registerBlock("lichen",
+            new GlowLichenBlock (FabricBlockSettings.copyOf(Blocks.GLOW_LICHEN).nonOpaque().noCollision().luminance(0)));
+
+    public static final Block BATGRASS = registerBlock("batgrass",
+            new FlowerBlock (StatusEffects.INSTANT_HEALTH, 1, FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision()));
+    public static final Block BLACK_SMALL_PLANT = registerBlock("black_small_plant",
+            new FlowerBlock (StatusEffects.INSTANT_HEALTH, 1, FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision()));
+    public static final Block GREEN_SMALL_PLANT = registerBlock("green_small_plant",
+            new FlowerBlock (StatusEffects.INSTANT_HEALTH, 1, FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision()));
+    public static final Block PINK_SMALL_PLANT = registerBlock("pink_small_plant",
+            new FlowerBlock (StatusEffects.INSTANT_HEALTH, 1, FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision()));
+    public static final Block LEG_PLANT = registerBlock("leg_plant",
+            new FlowerBlock (StatusEffects.INSTANT_HEALTH, 1, FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision()));
+    public static final Block THORNY_GROWER = registerBlock("thorny_grower",
+            new FlowerBlock (StatusEffects.INSTANT_HEALTH, 1, FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision()));
+
+
+    public static final Block SL_WORN_STONE = registerBlock("sl_worn_stone",
+            new Block (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
+    public static final Block RW_DIRT = registerBlock("rw_dirt",
+            new Block (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
+
     public static final Block GREEN_PIPE = registerBlock("green_pipe_block_straight",
             new PillarBlock (FabricBlockSettings.copyOf(Blocks.COBBLESTONE)));
     public static final Block GREEN_PIPE_CORNER = registerBlock("green_pipe_block_corner",
@@ -32,21 +63,21 @@ public class ModBlocks {
     public static final Block RED_PIPE_CORNER = registerBlock("red_pipe_block_corner",
             new PillarBlock (FabricBlockSettings.copyOf(Blocks.COBBLESTONE)));
 
-    public static final Block RED_SHEET_METAL = registerBlock("red_sheet_metal",
+    public static final Block RED_SHIPMENT = registerBlock("red_shipment",
             new Block (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
-    public static final Block RED_SHEET_METAL_EDGE = registerBlock("red_sheet_metal_edge",
+    public static final Block RED_SHIPMENT_EDGE = registerBlock("red_shipment_edge",
             new Block (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
-    public static final Block BLUE_SHEET_METAL = registerBlock("blue_sheet_metal",
+    public static final Block BLUE_SHIPMENT = registerBlock("blue_shipment",
             new Block (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
-    public static final Block BLUE_SHEET_METAL_EDGE = registerBlock("blue_sheet_metal_edge",
+    public static final Block BLUE_SHIPMENT_EDGE = registerBlock("blue_shipment_edge",
             new Block (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
-    public static final Block GREEN_SHEET_METAL = registerBlock("green_sheet_metal",
+    public static final Block GREEN_SHIPMENT = registerBlock("green_shipment",
             new Block (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
-    public static final Block GREEN_SHEET_METAL_EDGE = registerBlock("green_sheet_metal_edge",
+    public static final Block GREEN_SHIPMENT_EDGE = registerBlock("green_shipment_edge",
             new Block (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
-    public static final Block YELLOW_SHEET_METAL = registerBlock("yellow_sheet_metal",
+    public static final Block YELLOW_SHIPMENT = registerBlock("yellow_shipment",
             new Block (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
-    public static final Block YELLOW_SHEET_METAL_EDGE = registerBlock("yellow_sheet_metal_edge",
+    public static final Block YELLOW_SHIPMENT_EDGE = registerBlock("yellow_shipment_edge",
             new Block (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
 
 

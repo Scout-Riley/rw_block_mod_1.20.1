@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+	{  "model": "rw_block_mod:block/dandelion_0", "weight": 10},
+	{  "model": "rw_block_mod:block/dandelion_1", "weight": 10},
+	{  "model": "rw_block_mod:block/dandelion_2", "weight": 10},
+	{  "model": "rw_block_mod:block/dandelion_3", "weight": 10}
+  ]
+ }
+}

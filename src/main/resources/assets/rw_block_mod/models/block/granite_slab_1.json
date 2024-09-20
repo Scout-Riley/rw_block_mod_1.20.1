@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "rw_block_mod:block/granite_1",
+    "side": "rw_block_mod:block/granite_1",
+    "top": "rw_block_mod:block/granite_1"
+  }
+}

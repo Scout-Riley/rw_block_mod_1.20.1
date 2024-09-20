@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "rw_block_mod:block/sandstone_9",
+    "side": "rw_block_mod:block/sandstone_8",
+    "top": "rw_block_mod:block/sandstone_top_0"
+  }
+}

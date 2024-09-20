@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "": [
+	{  "model": "rw_block_mod:block/azure_bluet_0", "weight": 10},
+	{  "model": "rw_block_mod:block/azure_bluet_1", "weight": 10},
+	{  "model": "rw_block_mod:block/azure_bluet_2", "weight": 10},
+	{  "model": "rw_block_mod:block/azure_bluet_3", "weight": 10},
+	{  "model": "rw_block_mod:block/azure_bluet_4", "weight": 10},
+	{  "model": "rw_block_mod:block/azure_bluet_5", "weight": 10}
+  ]
+ }
+}

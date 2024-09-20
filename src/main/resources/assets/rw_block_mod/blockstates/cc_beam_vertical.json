@@ -1,0 +1,21 @@
+{
+  "variants": {
+   	"facing=north": [
+	{  "model": "rw_block_mod:block/cc_pillar_up_0", "y": 0}
+  ],
+
+   	"facing=south": [
+	{  "model": "rw_block_mod:block/cc_pillar_down_0", "y": 0}
+  ],
+
+   	"facing=east": [
+	{  "model": "rw_block_mod:block/cc_pillar_up_0", "y": 90}
+  ],
+
+   	"facing=west": [
+	{  "model": "rw_block_mod:block/cc_pillar_down_0", "y": 90}
+  ]
+
+
+  }
+}

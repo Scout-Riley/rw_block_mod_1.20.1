@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "": [
+	{  "model": "rw_block_mod:block/allium_0", "weight": 10},
+	{  "model": "rw_block_mod:block/allium_1", "weight": 10},
+	{  "model": "rw_block_mod:block/allium_2", "weight": 10},
+	{  "model": "rw_block_mod:block/allium_3", "weight": 10},
+	{  "model": "rw_block_mod:block/allium_4", "weight": 10},
+	{  "model": "rw_block_mod:block/allium_5", "weight": 10}
+  ]
+ }
+}

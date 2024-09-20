@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_glass_pane_noside",
+  "textures": {
+    "pane": "rw_block_mod:block/pipenet_su_3"
+  }
+}

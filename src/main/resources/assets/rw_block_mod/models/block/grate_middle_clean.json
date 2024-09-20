@@ -1,0 +1,32 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "rw_block_mod:block/grate_middle_clean",
+		"particle": "rw_block_mod:block/grate_middle_clean"
+	},
+	"elements": [
+		{
+			"name": "Grate Body",
+			"from": [0, 4.8, 7.2],
+			"to": [16, 8, 8.8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 5.6, 8]},
+			"faces": {
+				"north": {"uv": [0.5, 0.5, 5.5, 1.5], "texture": "#0"},
+				"east": {"uv": [5.5, 0.5, 6, 1.5], "texture": "#0"},
+				"south": {"uv": [0.5, 1.5, 5.5, 2.5], "texture": "#0"},
+				"west": {"uv": [0, 0.5, 0.5, 1.5], "texture": "#0"},
+				"up": {"uv": [5.5, 0.5, 0.5, 0], "texture": "#0"},
+				"down": {"uv": [5.5, 2.5, 0.5, 3], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "Background Grates Middle",
+			"origin": [8, 9, 8],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}

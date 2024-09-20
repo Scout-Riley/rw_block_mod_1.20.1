@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "": [
+	{  "model": "rw_block_mod:block/blue_orchid_0", "weight": 10},
+	{  "model": "rw_block_mod:block/blue_orchid_1", "weight": 10},
+	{  "model": "rw_block_mod:block/blue_orchid_2", "weight": 10},
+	{  "model": "rw_block_mod:block/blue_orchid_3", "weight": 10},
+	{  "model": "rw_block_mod:block/blue_orchid_4", "weight": 10},
+	{  "model": "rw_block_mod:block/blue_orchid_5", "weight": 10}
+  ]
+ }
+}
