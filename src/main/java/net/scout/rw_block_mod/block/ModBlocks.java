@@ -36,6 +36,32 @@ public class ModBlocks {
     public static final Block THORNY_GROWER = registerBlock("thorny_grower",
             new FlowerBlock (StatusEffects.INSTANT_HEALTH, 1, FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision()));
 
+    public static final Block BROWN_PIPE_STRAIGHT = registerBlock("brown_pipe_straight",
+            new PillarBlock (FabricBlockSettings.copyOf(Blocks.COBBLESTONE).nonOpaque()));
+    public static final Block BROWN_PIPE_SS = registerBlock("brown_pipe_ss",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block BROWN_PIPE_ST = registerBlock("brown_pipe_st",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block BROWN_PIPE_SD = registerBlock("brown_pipe_sd",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block BLUE_PIPE_STRAIGHT = registerBlock("blue_pipe_straight",
+            new PillarBlock (FabricBlockSettings.copyOf(Blocks.COBBLESTONE).nonOpaque()));
+    public static final Block BLUE_PIPE_SS = registerBlock("blue_pipe_ss",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block BLUE_PIPE_ST = registerBlock("blue_pipe_st",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block BLUE_PIPE_SD = registerBlock("blue_pipe_sd",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block GRAY_PIPE_STRAIGHT = registerBlock("gray_pipe_straight",
+            new PillarBlock (FabricBlockSettings.copyOf(Blocks.COBBLESTONE).nonOpaque()));
+    public static final Block GRAY_PIPE_SS = registerBlock("gray_pipe_ss",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block GRAY_PIPE_ST = registerBlock("gray_pipe_st",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block GRAY_PIPE_SD = registerBlock("gray_pipe_sd",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+
+
 
     public static final Block SL_WORN_STONE = registerBlock("sl_worn_stone",
             new Block (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
