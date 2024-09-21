@@ -1,0 +1,100 @@
+{
+  "multipart": [
+    {
+      "apply": [
+	{  "model": "rw_block_mod:block/green_stained_glass_pane_post_0", "uvlock": true, "y": 0},
+	{  "model": "rw_block_mod:block/green_stained_glass_pane_post_1", "uvlock": true, "y": 0},
+	{  "model": "rw_block_mod:block/green_stained_glass_pane_post_2", "uvlock": true, "y": 0},
+	{  "model": "rw_block_mod:block/green_stained_glass_pane_post_3", "uvlock": true, "y": 0}
+  ]
+    },
+    {
+      "apply": [
+	{  "model": "rw_block_mod:block/green_stained_glass_pane_side_0", "uvlock": true, "y": 0},
+	{  "model": "rw_block_mod:block/green_stained_glass_pane_side_1", "uvlock": true, "y": 0},
+	{  "model": "rw_block_mod:block/green_stained_glass_pane_side_2", "uvlock": true, "y": 0},
+	{  "model": "rw_block_mod:block/green_stained_glass_pane_side_3", "uvlock": true, "y": 0}
+  ],
+      "when": {
+        "north": "true"
+      }
+    },
+    {
+      "apply": [
+	{  "model": "rw_block_mod:block/green_stained_glass_pane_side_0", "uvlock": true, "y": 90},
+	{  "model": "rw_block_mod:block/green_stained_glass_pane_side_1", "uvlock": true, "y": 90},
+	{  "model": "rw_block_mod:block/green_stained_glass_pane_side_2", "uvlock": true, "y": 90},
+	{  "model": "rw_block_mod:block/green_stained_glass_pane_side_3", "uvlock": true, "y": 90}
+  ],
+      "when": {
+        "east": "true"
+      }
+    },
+    {
+      "apply": [
+	{  "model": "rw_block_mod:block/green_stained_glass_pane_side_alt_0", "uvlock": true, "y": 0},
+	{  "model": "rw_block_mod:block/green_stained_glass_pane_side_alt_1", "uvlock": true, "y": 0},
+	{  "model": "rw_block_mod:block/green_stained_glass_pane_side_alt_2", "uvlock": true, "y": 0},
+	{  "model": "rw_block_mod:block/green_stained_glass_pane_side_alt_3", "uvlock": true, "y": 0}
+  ],
+      "when": {
+        "south": "true"
+      }
+    },
+    {
+      "apply": [
+	{  "model": "rw_block_mod:block/green_stained_glass_pane_side_alt_0", "uvlock": true, "y": 90},
+	{  "model": "rw_block_mod:block/green_stained_glass_pane_side_alt_1", "uvlock": true, "y": 90},
+	{  "model": "rw_block_mod:block/green_stained_glass_pane_side_alt_2", "uvlock": true, "y": 90},
+	{  "model": "rw_block_mod:block/green_stained_glass_pane_side_alt_3", "uvlock": true, "y": 90}
+  ],
+      "when": {
+        "west": "true"
+      }
+    },
+    {
+      "apply": [
+	{  "model": "rw_block_mod:block/green_stained_glass_pane_noside_0", "uvlock": true, "y": 0},
+	{  "model": "rw_block_mod:block/green_stained_glass_pane_noside_1", "uvlock": true, "y": 0},
+	{  "model": "rw_block_mod:block/green_stained_glass_pane_noside_2", "uvlock": true, "y": 0},
+	{  "model": "rw_block_mod:block/green_stained_glass_pane_noside_3", "uvlock": true, "y": 0}
+  ],
+      "when": {
+        "north": "false"
+      }
+    },
+    {
+      "apply": [
+	{  "model": "rw_block_mod:block/green_stained_glass_pane_noside_alt_0", "uvlock": true, "y": 0},
+	{  "model": "rw_block_mod:block/green_stained_glass_pane_noside_alt_1", "uvlock": true, "y": 0},
+	{  "model": "rw_block_mod:block/green_stained_glass_pane_noside_alt_2", "uvlock": true, "y": 0},
+	{  "model": "rw_block_mod:block/green_stained_glass_pane_noside_alt_3", "uvlock": true, "y": 0}
+  ],
+      "when": {
+        "east": "false"
+      }
+    },
+    {
+      "apply": [
+	{  "model": "rw_block_mod:block/green_stained_glass_pane_noside_alt_0", "uvlock": true, "y": 90},
+	{  "model": "rw_block_mod:block/green_stained_glass_pane_noside_alt_1", "uvlock": true, "y": 90},
+	{  "model": "rw_block_mod:block/green_stained_glass_pane_noside_alt_2", "uvlock": true, "y": 90},
+	{  "model": "rw_block_mod:block/green_stained_glass_pane_noside_alt_3", "uvlock": true, "y": 90}
+  ],
+      "when": {
+        "south": "false"
+      }
+    },
+    {
+      "apply": [
+	{  "model": "rw_block_mod:block/green_stained_glass_pane_noside_0", "uvlock": true, "y": 270},
+	{  "model": "rw_block_mod:block/green_stained_glass_pane_noside_1", "uvlock": true, "y": 270},
+	{  "model": "rw_block_mod:block/green_stained_glass_pane_noside_2", "uvlock": true, "y": 270},
+	{  "model": "rw_block_mod:block/green_stained_glass_pane_noside_3", "uvlock": true, "y": 270}
+  ],
+      "when": {
+        "west": "false"
+      }
+    }
+  ]
+}

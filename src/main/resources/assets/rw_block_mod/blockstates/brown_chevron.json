@@ -1,0 +1,33 @@
+{
+  "variants": {
+    "facing=north": [
+      {  "model": "rw_block_mod:block/oak_chevron_0"},
+      {  "model": "rw_block_mod:block/oak_chevron_1"},
+      {  "model": "rw_block_mod:block/oak_chevron_2"},
+      {  "model": "rw_block_mod:block/oak_chevron_3"}
+    ],
+
+    "facing=south": [
+      {  "model": "rw_block_mod:block/oak_chevron_0", "y": 180},
+      {  "model": "rw_block_mod:block/oak_chevron_1", "y": 180},
+      {  "model": "rw_block_mod:block/oak_chevron_2", "y": 180},
+      {  "model": "rw_block_mod:block/oak_chevron_3", "y": 180}
+    ],
+
+    "facing=east": [
+      {  "model": "rw_block_mod:block/oak_chevron_0", "y": 90},
+      {  "model": "rw_block_mod:block/oak_chevron_1", "y": 90},
+      {  "model": "rw_block_mod:block/oak_chevron_2", "y": 90},
+      {  "model": "rw_block_mod:block/oak_chevron_3", "y": 90}
+    ],
+
+    "facing=west": [
+      {  "model": "rw_block_mod:block/oak_chevron_0", "y": 270},
+      {  "model": "rw_block_mod:block/oak_chevron_1", "y": 270},
+      {  "model": "rw_block_mod:block/oak_chevron_2", "y": 270},
+      {  "model": "rw_block_mod:block/oak_chevron_3", "y": 270}
+    ]
+
+
+  }
+}

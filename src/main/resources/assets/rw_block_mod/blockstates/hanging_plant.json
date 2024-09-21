@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+	{  "model": "rw_block_mod:block/dead_bush_0", "weight": 10},
+	{  "model": "rw_block_mod:block/dead_bush_1", "weight": 10},
+	{  "model": "rw_block_mod:block/dead_bush_2", "weight": 10},
+	{  "model": "rw_block_mod:block/dead_bush_3", "weight": 10},
+	{  "model": "rw_block_mod:block/dead_bush_4", "weight": 10},
+	{  "model": "rw_block_mod:block/dead_bush_5", "weight": 10},
+	{  "model": "rw_block_mod:block/dead_bush_6", "weight": 10},
+	{  "model": "rw_block_mod:block/dead_bush_7", "weight": 10}
+  ]
+ }
+}

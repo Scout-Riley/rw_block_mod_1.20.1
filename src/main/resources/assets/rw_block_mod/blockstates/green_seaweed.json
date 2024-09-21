@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "": [
+	{  "model": "rw_block_mod:block/seaweed_0", "weight": 10},
+	{  "model": "rw_block_mod:block/seaweed_1", "weight": 10},
+	{  "model": "rw_block_mod:block/seaweed_2", "weight": 10},
+	{  "model": "rw_block_mod:block/seaweed_3", "weight": 10},
+	{  "model": "rw_block_mod:block/seaweed_4", "weight": 10},
+	{  "model": "rw_block_mod:block/seaweed_5", "weight": 10}
+  ]
+ }
+}

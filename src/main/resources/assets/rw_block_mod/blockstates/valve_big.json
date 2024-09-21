@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "facing=north": [
+      {  "model": "rw_block_mod:block/valve_big", "y": 0}
+    ],
+
+    "facing=south": [
+      {  "model": "rw_block_mod:block/valve_big", "y": 180}
+    ],
+
+    "facing=east": [
+      {  "model": "rw_block_mod:block/valve_big", "y": 90}
+    ],
+
+    "facing=west": [
+      {  "model": "rw_block_mod:block/valve_big", "y": 270}
+    ]
+
+
+  }
+}

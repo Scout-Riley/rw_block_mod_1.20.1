@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "": [
+	{  "model": "rw_block_mod:block/white_tulip_0", "weight": 10},
+	{  "model": "rw_block_mod:block/white_tulip_1", "weight": 10},
+	{  "model": "rw_block_mod:block/white_tulip_2", "weight": 10},
+	{  "model": "rw_block_mod:block/white_tulip_3", "weight": 10},
+	{  "model": "rw_block_mod:block/white_tulip_4", "weight": 10},
+	{  "model": "rw_block_mod:block/white_tulip_5", "weight": 10}
+  ]
+ }
+}

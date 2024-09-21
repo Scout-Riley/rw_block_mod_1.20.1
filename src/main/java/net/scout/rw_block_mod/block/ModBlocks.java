@@ -15,26 +15,112 @@ public class ModBlocks {
 
     public static final Block BIG_GEAR = registerBlock("big_gear",
             new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block WHEEL = registerBlock("wheel",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block VALVE_SMALL = registerBlock("valve_small",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block VALVE_BIG = registerBlock("valve_big",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block GEAR_WEIRD = registerBlock("gear_weird",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block GEAR_WEIRD_SMALL = registerBlock("gear_weird_small",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
     public static final Block CC_BEAM_HORIZONTAL = registerBlock("cc_beam_horizontal",
             new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
     public static final Block CC_BEAM_VERTICAL = registerBlock("cc_beam_vertical",
             new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
 
+
+    public static final Block SUPPORT_CLOCKWISE = registerBlock("support_clockwise",
+            new Block (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque().noCollision()));
+    public static final Block SUPPORT_COUNTERCLOCKWISE = registerBlock("support_counterclockwise",
+            new Block (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque().noCollision()));
+    public static final Block RED_GLYPH_STONE = registerBlock("red_glyph_stone",
+            new Block (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
+    public static final Block CIRCUIT_BOARD_BLOCK = registerBlock("circuit_board_block",
+            new Block (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
+    public static final Block YELLOW_GLYPH_BLOCK_1 = registerBlock("yellow_glyph_block_1",
+            new Block (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
+    public static final Block YELLOW_GLYPH_BLOCK_2 = registerBlock("yellow_glyph_block_2",
+            new Block (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
+    public static final Block GREEN_GLYPH_BLOCK = registerBlock("green_glyph_block",
+            new Block (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
+    public static final Block MEAT_BLOCK = registerBlock("meat_block",
+            new Block (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
+    public static final Block LEG_CYLINDER = registerBlock("leg_cylinder",
+            new Block (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block ROT_BLOCK = registerBlock("rot_block",
+            new Block (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+
+    public static final Block HANGING_PLANT_3_BASE = registerBlock("hanging_plant_3_base",
+            new WeepingVinesBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block HANGING_PLANT_3 = registerBlock("hanging_plant_3",
+            new WeepingVinesPlantBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+
+
     public static final Block LICHEN = registerBlock("lichen",
+            new GlowLichenBlock (FabricBlockSettings.copyOf(Blocks.GLOW_LICHEN).nonOpaque().noCollision().luminance(0)));
+    public static final Block ROT_WALL = registerBlock("rot_wall",
             new GlowLichenBlock (FabricBlockSettings.copyOf(Blocks.GLOW_LICHEN).nonOpaque().noCollision().luminance(0)));
 
     public static final Block BATGRASS = registerBlock("batgrass",
-            new FlowerBlock (StatusEffects.INSTANT_HEALTH, 1, FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision()));
+            new DeadCoralBlock (FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision()));
+    public static final Block GRASS_BROWN = registerBlock("grass_brown",
+            new DeadCoralBlock (FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision()));
+    public static final Block MUSHROOM = registerBlock("mushroom",
+            new DeadCoralBlock (FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision()));
     public static final Block BLACK_SMALL_PLANT = registerBlock("black_small_plant",
-            new FlowerBlock (StatusEffects.INSTANT_HEALTH, 1, FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision()));
+            new DeadCoralBlock (FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision()));
     public static final Block GREEN_SMALL_PLANT = registerBlock("green_small_plant",
-            new FlowerBlock (StatusEffects.INSTANT_HEALTH, 1, FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision()));
+            new DeadCoralBlock (FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision()));
     public static final Block PINK_SMALL_PLANT = registerBlock("pink_small_plant",
-            new FlowerBlock (StatusEffects.INSTANT_HEALTH, 1, FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision()));
+            new DeadCoralBlock (FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision()));
+    public static final Block BLACK_FERN = registerBlock("black_fern",
+            new DeadCoralBlock (FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision()));
     public static final Block LEG_PLANT = registerBlock("leg_plant",
-            new FlowerBlock (StatusEffects.INSTANT_HEALTH, 1, FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision()));
+            new DeadCoralBlock (FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision()));
     public static final Block THORNY_GROWER = registerBlock("thorny_grower",
-            new FlowerBlock (StatusEffects.INSTANT_HEALTH, 1, FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision()));
+            new DeadCoralBlock (FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision()));
+    public static final Block BLACK_SEAWEED = registerBlock("black_seaweed",
+            new DeadCoralBlock (FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision()));
+    public static final Block GREEN_SEAWEED = registerBlock("green_seaweed",
+            new DeadCoralBlock (FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision()));
+    public static final Block BROWN_SEAWEED = registerBlock("brown_seaweed",
+            new DeadCoralBlock (FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision()));
+    public static final Block HANGING_PLANT = registerBlock("hanging_plant",
+            new DeadCoralBlock (FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision()));
+    public static final Block HANGING_PLANT_2 = registerBlock("hanging_plant_2",
+            new DeadCoralBlock (FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision()));
+    public static final Block RED_TALL_PLANT = registerBlock("red_tall_plant",
+            new DeadCoralBlock (FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision()));
+    public static final Block PINK_TALL_PLANT = registerBlock("pink_tall_plant",
+            new DeadCoralBlock (FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision()));
+    public static final Block GREEN_TALL_PLANT = registerBlock("green_tall_plant",
+            new DeadCoralBlock (FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision()));
+    public static final Block YELLOW_TALL_PLANT = registerBlock("yellow_tall_plant",
+            new DeadCoralBlock (FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision()));
+
+    public static final Block LARGE_DEBRIS = registerBlock("large_debris",
+            new DeadCoralBlock (FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision()));
+    public static final Block CC_DIAGONAL_BEAM = registerBlock("cc_diagonal_beam",
+            new DeadCoralWallFanBlock(FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision().offset(AbstractBlock.OffsetType.NONE)));
+    public static final Block SMALL_DEBRIS = registerBlock("small_debris",
+            new DeadCoralBlock (FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision()));
+    public static final Block DIAGONAL_BEAM = registerBlock("diagonal_beam",
+            new DeadCoralWallFanBlock(FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision().offset(AbstractBlock.OffsetType.NONE)));
+    public static final Block X_BEAM = registerBlock("x_beam",
+            new DeadCoralWallFanBlock(FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision().offset(AbstractBlock.OffsetType.NONE)));
+    public static final Block HORIZONTAL_PIPES = registerBlock("horizontal_pipes",
+            new DeadCoralWallFanBlock(FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision().offset(AbstractBlock.OffsetType.NONE)));
+    public static final Block MESSY_PIPES = registerBlock("messy_pipes",
+            new DeadCoralWallFanBlock(FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision().offset(AbstractBlock.OffsetType.NONE)));
+    public static final Block HORIZONTAL_DIAGONAL_BEAM = registerBlock("horizontal_diagonal_beam",
+            new DeadCoralWallFanBlock(FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision().offset(AbstractBlock.OffsetType.NONE)));
+    public static final Block HORIZONTAL_X_BEAM = registerBlock("horizontal_x_beam",
+            new DeadCoralWallFanBlock(FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision().offset(AbstractBlock.OffsetType.NONE)));
+    public static final Block VERTICAL_PIPES = registerBlock("vertical_pipes",
+            new DeadCoralWallFanBlock(FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision().offset(AbstractBlock.OffsetType.NONE)));
+
 
     public static final Block BROWN_PIPE_STRAIGHT = registerBlock("brown_pipe_straight",
             new PillarBlock (FabricBlockSettings.copyOf(Blocks.COBBLESTONE).nonOpaque()));
@@ -61,12 +147,37 @@ public class ModBlocks {
     public static final Block GRAY_PIPE_SD = registerBlock("gray_pipe_sd",
             new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
 
+    public static final Block BROWN_CHEVRON = registerBlock("brown_chevron",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block BLACK_CHEVRON = registerBlock("black_chevron",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block GIRDER = registerBlock("girder",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block GRAY_FANBOX = registerBlock("gray_fanbox",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block BROWN_FANBOX = registerBlock("brown_fanbox",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+
+
 
 
     public static final Block SL_WORN_STONE = registerBlock("sl_worn_stone",
             new Block (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
     public static final Block RW_DIRT = registerBlock("rw_dirt",
             new Block (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
+    public static final Block GLASS_1 = registerBlock("glass_1",
+            new GlassBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
+    public static final Block GLASS_2 = registerBlock("glass_2",
+            new GlassBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
+    public static final Block GLASS_3 = registerBlock("glass_3",
+            new GlassBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
+    public static final Block GLASS_4 = registerBlock("glass_4",
+            new GlassBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
+
+    public static final Block GLASS_PANE_2 = registerBlock("glass_pane_2",
+            new PaneBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
+    public static final Block GLASS_PANE_3 = registerBlock("glass_pane_3",
+            new PaneBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
 
     public static final Block GREEN_PIPE = registerBlock("green_pipe_block_straight",
             new PillarBlock (FabricBlockSettings.copyOf(Blocks.COBBLESTONE)));
@@ -105,6 +216,23 @@ public class ModBlocks {
             new Block (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
     public static final Block YELLOW_SHIPMENT_EDGE = registerBlock("yellow_shipment_edge",
             new Block (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
+
+    public static final Block WORN_STONE = registerBlock("worn_stone",
+            new Block (FabricBlockSettings.copyOf(Blocks.COBBLESTONE)));
+    public static final Block SLIGHTLY_DIRTY_WORN_STONE = registerBlock("slightly_dirty_worn_stone",
+            new Block (FabricBlockSettings.copyOf(Blocks.COBBLESTONE)));
+    public static final Block DIRTY_WORN_STONE = registerBlock("dirty_worn_stone",
+            new Block (FabricBlockSettings.copyOf(Blocks.COBBLESTONE)));
+    public static final Block GRAY_METAL = registerBlock("gray_metal",
+            new Block (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
+    public static final Block WORN_STONE_SLAB = registerBlock("worn_stone_slab",
+            new SlabBlock (FabricBlockSettings.copyOf(Blocks.COBBLESTONE)));
+    public static final Block WORN_STONE_STAIRS = registerBlock("worn_stone_stairs",
+            new StairsBlock (ModBlocks.WORN_STONE.getDefaultState(), FabricBlockSettings.copyOf(Blocks.COBBLESTONE)));
+    public static final Block GRAY_METAL_STAIRS = registerBlock("gray_metal_stairs",
+            new StairsBlock (ModBlocks.GRAY_METAL.getDefaultState(), FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
+    public static final Block WORN_STONE_WALL = registerBlock("worn_stone_wall",
+            new WallBlock (FabricBlockSettings.copyOf(Blocks.COBBLESTONE)));
 
 
 

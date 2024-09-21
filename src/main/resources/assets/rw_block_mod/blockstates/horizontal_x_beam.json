@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "facing=east": [
+	{  "model": "rw_block_mod:block/dead_fire_coral_fan_0", "y": 90}
+	],
+
+    "facing=north": [
+	{  "model": "rw_block_mod:block/dead_fire_coral_fan_0"}
+	],
+
+    "facing=south": [
+	{  "model": "rw_block_mod:block/dead_fire_coral_fan_0", "y": 180}
+	],
+
+    "facing=west": [
+	{  "model": "rw_block_mod:block/dead_fire_coral_fan_0", "y": 270}
+
+	]
+
+  }
+}

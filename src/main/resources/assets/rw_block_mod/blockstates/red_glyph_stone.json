@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+	{  "model": "rw_block_mod:block/jungle_planks_0"},
+	{  "model": "rw_block_mod:block/jungle_planks_1"},
+	{  "model": "rw_block_mod:block/jungle_planks_2"},
+	{  "model": "rw_block_mod:block/jungle_planks_3"},
+	{  "model": "rw_block_mod:block/jungle_planks_4"},
+	{  "model": "rw_block_mod:block/jungle_planks_5"},
+	{  "model": "rw_block_mod:block/jungle_planks_6"},
+	{  "model": "rw_block_mod:block/jungle_planks_7"}
+
+  ]
+ }
+}

@@ -1,0 +1,374 @@
+{
+  "multipart": [
+    {
+      "apply": [
+		{"model": "minecraft:block/sculk_vein_0", "uvlock": false, "y": 0, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_0", "uvlock": false, "y": 180, "x": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_1", "uvlock": false, "y": 0, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_1", "uvlock": false, "y": 180, "x": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_2", "uvlock": false, "y": 0, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_2", "uvlock": false, "y": 180, "x": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_3", "uvlock": false, "y": 0, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_3", "uvlock": false, "y": 180, "x": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_4", "uvlock": false, "y": 0, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_4", "uvlock": false, "y": 180, "x": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_5", "uvlock": false, "y": 0, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_5", "uvlock": false, "y": 180, "x": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_6", "uvlock": false, "y": 0, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_6", "uvlock": false, "y": 180, "x": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_7", "uvlock": false, "y": 0, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_7", "uvlock": false, "y": 180, "x": 180, "weight": 15}
+      ],
+      "when": {
+        "north": "true"
+      }
+    },
+    {
+      "apply": [
+		{"model": "minecraft:block/sculk_vein_0", "uvlock": false, "y": 0, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_0", "uvlock": false, "y": 180, "x": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_1", "uvlock": false, "y": 0, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_1", "uvlock": false, "y": 180, "x": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_2", "uvlock": false, "y": 0, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_2", "uvlock": false, "y": 180, "x": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_3", "uvlock": false, "y": 0, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_3", "uvlock": false, "y": 180, "x": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_4", "uvlock": false, "y": 0, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_4", "uvlock": false, "y": 180, "x": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_5", "uvlock": false, "y": 0, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_5", "uvlock": false, "y": 180, "x": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_6", "uvlock": false, "y": 0, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_6", "uvlock": false, "y": 180, "x": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_7", "uvlock": false, "y": 0, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_7", "uvlock": false, "y": 180, "x": 180, "weight": 15}
+      ],
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    {
+      "apply": [
+		{"model": "minecraft:block/sculk_vein_0", "uvlock": false, "y": 90, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_0", "uvlock": false, "y": 270, "x": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_1", "uvlock": false, "y": 90, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_1", "uvlock": false, "y": 270, "x": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_2", "uvlock": false, "y": 90, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_2", "uvlock": false, "y": 270, "x": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_3", "uvlock": false, "y": 90, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_3", "uvlock": false, "y": 270, "x": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_4", "uvlock": false, "y": 90, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_4", "uvlock": false, "y": 270, "x": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_5", "uvlock": false, "y": 90, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_5", "uvlock": false, "y": 270, "x": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_6", "uvlock": false, "y": 90, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_6", "uvlock": false, "y": 270, "x": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_7", "uvlock": false, "y": 90, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_7", "uvlock": false, "y": 270, "x": 180, "weight": 15}
+      ],
+      "when": {
+        "east": "true"
+      }
+    },
+    {
+      "apply": [
+		{"model": "minecraft:block/sculk_vein_0", "uvlock": false, "y": 90, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_0", "uvlock": false, "y": 270, "x": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_1", "uvlock": false, "y": 90, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_1", "uvlock": false, "y": 270, "x": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_2", "uvlock": false, "y": 90, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_2", "uvlock": false, "y": 270, "x": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_3", "uvlock": false, "y": 90, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_3", "uvlock": false, "y": 270, "x": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_4", "uvlock": false, "y": 90, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_4", "uvlock": false, "y": 270, "x": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_5", "uvlock": false, "y": 90, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_5", "uvlock": false, "y": 270, "x": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_6", "uvlock": false, "y": 90, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_6", "uvlock": false, "y": 270, "x": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_7", "uvlock": false, "y": 90, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_7", "uvlock": false, "y": 270, "x": 180, "weight": 15}
+	],
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    {
+      "apply": [
+		{"model": "minecraft:block/sculk_vein_0", "uvlock": false, "y": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_0", "uvlock": false, "y": 0, "x": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_1", "uvlock": false, "y": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_1", "uvlock": false, "y": 0, "x": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_2", "uvlock": false, "y": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_2", "uvlock": false, "y": 0, "x": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_3", "uvlock": false, "y": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_3", "uvlock": false, "y": 0, "x": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_4", "uvlock": false, "y": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_4", "uvlock": false, "y": 0, "x": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_5", "uvlock": false, "y": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_5", "uvlock": false, "y": 0, "x": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_6", "uvlock": false, "y": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_6", "uvlock": false, "y": 0, "x": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_7", "uvlock": false, "y": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_7", "uvlock": false, "y": 0, "x": 180, "weight": 15}
+      ],
+      "when": {
+        "south": "true"
+      }
+    },
+    {
+      "apply": [
+		{"model": "minecraft:block/sculk_vein_0", "uvlock": false, "y": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_0", "uvlock": false, "y": 0, "x": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_1", "uvlock": false, "y": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_1", "uvlock": false, "y": 0, "x": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_2", "uvlock": false, "y": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_2", "uvlock": false, "y": 0, "x": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_3", "uvlock": false, "y": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_3", "uvlock": false, "y": 0, "x": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_4", "uvlock": false, "y": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_4", "uvlock": false, "y": 0, "x": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_5", "uvlock": false, "y": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_5", "uvlock": false, "y": 0, "x": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_6", "uvlock": false, "y": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_6", "uvlock": false, "y": 0, "x": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_7", "uvlock": false, "y": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_7", "uvlock": false, "y": 0, "x": 180, "weight": 15}
+      ],
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    {
+      "apply": [
+		{"model": "minecraft:block/sculk_vein_0", "uvlock": false, "y": 270, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_0", "uvlock": false, "y": 90, "x": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_1", "uvlock": false, "y": 270, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_1", "uvlock": false, "y": 90, "x": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_2", "uvlock": false, "y": 270, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_2", "uvlock": false, "y": 90, "x": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_3", "uvlock": false, "y": 270, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_3", "uvlock": false, "y": 90, "x": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_4", "uvlock": false, "y": 270, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_4", "uvlock": false, "y": 90, "x": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_5", "uvlock": false, "y": 270, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_5", "uvlock": false, "y": 90, "x": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_6", "uvlock": false, "y": 270, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_6", "uvlock": false, "y": 90, "x": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_7", "uvlock": false, "y": 270, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_7", "uvlock": false, "y": 90, "x": 180, "weight": 15}
+      ],
+      "when": {
+        "west": "true"
+      }
+    },
+    {
+      "apply": [
+		{"model": "minecraft:block/sculk_vein_0", "uvlock": false, "y": 270, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_0", "uvlock": false, "y": 90, "x": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_1", "uvlock": false, "y": 270, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_1", "uvlock": false, "y": 90, "x": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_2", "uvlock": false, "y": 270, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_2", "uvlock": false, "y": 90, "x": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_3", "uvlock": false, "y": 270, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_3", "uvlock": false, "y": 90, "x": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_4", "uvlock": false, "y": 270, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_4", "uvlock": false, "y": 90, "x": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_5", "uvlock": false, "y": 270, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_5", "uvlock": false, "y": 90, "x": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_6", "uvlock": false, "y": 270, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_6", "uvlock": false, "y": 90, "x": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_7", "uvlock": false, "y": 270, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_7", "uvlock": false, "y": 90, "x": 180, "weight": 15}
+      ],
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    {
+      "apply": [
+		{"model": "minecraft:block/sculk_vein_0", "uvlock": false, "x": 270, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_0", "uvlock": false, "x": 270, "y": 90, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_0", "uvlock": false, "x": 270, "y": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_0", "uvlock": false, "x": 270, "y": 270, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_1", "uvlock": false, "x": 270, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_1", "uvlock": false, "x": 270, "y": 90, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_1", "uvlock": false, "x": 270, "y": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_1", "uvlock": false, "x": 270, "y": 270, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_2", "uvlock": false, "x": 270, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_2", "uvlock": false, "x": 270, "y": 90, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_2", "uvlock": false, "x": 270, "y": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_2", "uvlock": false, "x": 270, "y": 270, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_3", "uvlock": false, "x": 270, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_3", "uvlock": false, "x": 270, "y": 90, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_3", "uvlock": false, "x": 270, "y": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_3", "uvlock": false, "x": 270, "y": 270, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_4", "uvlock": false, "x": 270, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_4", "uvlock": false, "x": 270, "y": 90, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_4", "uvlock": false, "x": 270, "y": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_4", "uvlock": false, "x": 270, "y": 270, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_5", "uvlock": false, "x": 270, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_5", "uvlock": false, "x": 270, "y": 90, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_5", "uvlock": false, "x": 270, "y": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_5", "uvlock": false, "x": 270, "y": 270, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_6", "uvlock": false, "x": 270, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_6", "uvlock": false, "x": 270, "y": 90, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_6", "uvlock": false, "x": 270, "y": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_6", "uvlock": false, "x": 270, "y": 270, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_7", "uvlock": false, "x": 270, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_7", "uvlock": false, "x": 270, "y": 90, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_7", "uvlock": false, "x": 270, "y": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_7", "uvlock": false, "x": 270, "y": 270, "weight": 15}
+      ],
+      "when": {
+        "up": "true"
+      }
+    },
+    {
+      "apply": [
+		{"model": "minecraft:block/sculk_vein_0", "uvlock": false, "x": 270, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_0", "uvlock": false, "x": 270, "y": 90, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_0", "uvlock": false, "x": 270, "y": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_0", "uvlock": false, "x": 270, "y": 270, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_1", "uvlock": false, "x": 270, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_1", "uvlock": false, "x": 270, "y": 90, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_1", "uvlock": false, "x": 270, "y": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_1", "uvlock": false, "x": 270, "y": 270, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_2", "uvlock": false, "x": 270, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_2", "uvlock": false, "x": 270, "y": 90, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_2", "uvlock": false, "x": 270, "y": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_2", "uvlock": false, "x": 270, "y": 270, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_3", "uvlock": false, "x": 270, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_3", "uvlock": false, "x": 270, "y": 90, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_3", "uvlock": false, "x": 270, "y": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_3", "uvlock": false, "x": 270, "y": 270, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_4", "uvlock": false, "x": 270, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_4", "uvlock": false, "x": 270, "y": 90, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_4", "uvlock": false, "x": 270, "y": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_4", "uvlock": false, "x": 270, "y": 270, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_5", "uvlock": false, "x": 270, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_5", "uvlock": false, "x": 270, "y": 90, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_5", "uvlock": false, "x": 270, "y": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_5", "uvlock": false, "x": 270, "y": 270, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_6", "uvlock": false, "x": 270, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_6", "uvlock": false, "x": 270, "y": 90, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_6", "uvlock": false, "x": 270, "y": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_6", "uvlock": false, "x": 270, "y": 270, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_7", "uvlock": false, "x": 270, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_7", "uvlock": false, "x": 270, "y": 90, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_7", "uvlock": false, "x": 270, "y": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_7", "uvlock": false, "x": 270, "y": 270, "weight": 15}
+      ],
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    {
+      "apply": [
+		{"model": "minecraft:block/sculk_vein_0", "uvlock": false, "x": 90, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_0", "uvlock": false, "x": 90, "y": 90, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_0", "uvlock": false, "x": 90, "y": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_0", "uvlock": false, "x": 90, "y": 270, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_1", "uvlock": false, "x": 90, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_1", "uvlock": false, "x": 90, "y": 90, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_1", "uvlock": false, "x": 90, "y": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_1", "uvlock": false, "x": 90, "y": 270, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_2", "uvlock": false, "x": 90, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_2", "uvlock": false, "x": 90, "y": 90, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_2", "uvlock": false, "x": 90, "y": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_2", "uvlock": false, "x": 90, "y": 270, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_3", "uvlock": false, "x": 90, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_3", "uvlock": false, "x": 90, "y": 90, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_3", "uvlock": false, "x": 90, "y": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_3", "uvlock": false, "x": 90, "y": 270, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_4", "uvlock": false, "x": 90, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_4", "uvlock": false, "x": 90, "y": 90, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_4", "uvlock": false, "x": 90, "y": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_4", "uvlock": false, "x": 90, "y": 270, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_5", "uvlock": false, "x": 90, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_5", "uvlock": false, "x": 90, "y": 90, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_5", "uvlock": false, "x": 90, "y": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_5", "uvlock": false, "x": 90, "y": 270, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_6", "uvlock": false, "x": 90, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_6", "uvlock": false, "x": 90, "y": 90, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_6", "uvlock": false, "x": 90, "y": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_6", "uvlock": false, "x": 90, "y": 270, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_7", "uvlock": false, "x": 90, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_7", "uvlock": false, "x": 90, "y": 90, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_7", "uvlock": false, "x": 90, "y": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_7", "uvlock": false, "x": 90, "y": 270, "weight": 15}
+      ],
+      "when": {
+        "down": "true"
+      }
+    },
+    {
+      "apply": [
+		{"model": "minecraft:block/sculk_vein_0", "uvlock": false, "x": 90, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_0", "uvlock": false, "x": 90, "y": 90, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_0", "uvlock": false, "x": 90, "y": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_0", "uvlock": false, "x": 90, "y": 270, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_1", "uvlock": false, "x": 90, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_1", "uvlock": false, "x": 90, "y": 90, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_1", "uvlock": false, "x": 90, "y": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_1", "uvlock": false, "x": 90, "y": 270, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_2", "uvlock": false, "x": 90, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_2", "uvlock": false, "x": 90, "y": 90, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_2", "uvlock": false, "x": 90, "y": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_2", "uvlock": false, "x": 90, "y": 270, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_3", "uvlock": false, "x": 90, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_3", "uvlock": false, "x": 90, "y": 90, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_3", "uvlock": false, "x": 90, "y": 180, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_3", "uvlock": false, "x": 90, "y": 270, "weight": 5},
+		{"model": "minecraft:block/sculk_vein_4", "uvlock": false, "x": 90, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_4", "uvlock": false, "x": 90, "y": 90, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_4", "uvlock": false, "x": 90, "y": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_4", "uvlock": false, "x": 90, "y": 270, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_5", "uvlock": false, "x": 90, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_5", "uvlock": false, "x": 90, "y": 90, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_5", "uvlock": false, "x": 90, "y": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_5", "uvlock": false, "x": 90, "y": 270, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_6", "uvlock": false, "x": 90, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_6", "uvlock": false, "x": 90, "y": 90, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_6", "uvlock": false, "x": 90, "y": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_6", "uvlock": false, "x": 90, "y": 270, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_7", "uvlock": false, "x": 90, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_7", "uvlock": false, "x": 90, "y": 90, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_7", "uvlock": false, "x": 90, "y": 180, "weight": 15},
+		{"model": "minecraft:block/sculk_vein_7", "uvlock": false, "x": 90, "y": 270, "weight": 15}
+      ],
+      "when": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false"
+      }
+    }
+  ]
+}

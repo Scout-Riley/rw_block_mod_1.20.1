@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+	{  "model": "rw_block_mod:block/yellow_tulip_0", "weight": 10},
+	{  "model": "rw_block_mod:block/yellow_tulip_1", "weight": 10},
+	{  "model": "rw_block_mod:block/yellow_tulip_2", "weight": 10},
+	{  "model": "rw_block_mod:block/yellow_tulip_3", "weight": 5},
+	{  "model": "rw_block_mod:block/yellow_tulip_4", "weight": 10},
+	{  "model": "rw_block_mod:block/yellow_tulip_5", "weight": 10},
+	{  "model": "rw_block_mod:block/yellow_tulip_6", "weight": 10},
+	{  "model": "rw_block_mod:block/yellow_tulip_7", "weight": 5}
+  ]
+ }
+}

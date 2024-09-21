@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+	{  "model": "rw_block_mod:block/red_shipment_0", "weight": 10, "x": 0, "y": 0},
+	{  "model": "rw_block_mod:block/red_shipment_1", "weight": 10, "x": 0, "y": 0},
+	{  "model": "rw_block_mod:block/red_shipment_2", "weight": 10, "x": 0, "y": 0},
+	{  "model": "rw_block_mod:block/red_shipment_3", "weight": 10, "x": 0, "y": 0}
+  ]
+ }
+}

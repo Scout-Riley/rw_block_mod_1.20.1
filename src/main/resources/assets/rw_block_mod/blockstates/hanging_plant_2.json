@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+	{  "model": "rw_block_mod:block/hanging_roots_0", "weight": 10},
+	{  "model": "rw_block_mod:block/hanging_roots_1", "weight": 10},
+	{  "model": "rw_block_mod:block/hanging_roots_2", "weight": 10},
+	{  "model": "rw_block_mod:block/hanging_roots_3", "weight": 10},
+	{  "model": "rw_block_mod:block/hanging_roots_4", "weight": 10},
+	{  "model": "rw_block_mod:block/hanging_roots_5", "weight": 10},
+	{  "model": "rw_block_mod:block/hanging_roots_6", "weight": 10},
+	{  "model": "rw_block_mod:block/hanging_roots_7", "weight": 10}
+  ]
+ }
+}

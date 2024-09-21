@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "": [
+	{  "model": "minecraft:block/poppy_0", "weight": 10},
+	{  "model": "minecraft:block/poppy_1", "weight": 10},
+	{  "model": "minecraft:block/poppy_2", "weight": 10},
+	{  "model": "minecraft:block/poppy_3", "weight": 10},
+	{  "model": "minecraft:block/poppy_4", "weight": 10},
+	{  "model": "minecraft:block/poppy_5", "weight": 10}
+  ]
+ }
+}

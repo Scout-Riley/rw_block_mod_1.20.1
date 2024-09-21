@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "": [
+	{  "model": "minecraft:block/oxeye_daisy_0", "weight": 10},
+	{  "model": "minecraft:block/oxeye_daisy_1", "weight": 10},
+	{  "model": "minecraft:block/oxeye_daisy_2", "weight": 10},
+	{  "model": "minecraft:block/oxeye_daisy_3", "weight": 10},
+	{  "model": "minecraft:block/oxeye_daisy_4", "weight": 10},
+	{  "model": "minecraft:block/oxeye_daisy_5", "weight": 10}
+  ]
+ }
+}
