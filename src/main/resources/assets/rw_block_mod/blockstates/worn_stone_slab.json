@@ -1,19 +1,19 @@
 {
   "variants": {
     "type=bottom": [
-	{  "model": "minecraft:block/prismarine_slab_0", "weight": 10},
-	{  "model": "minecraft:block/prismarine_slab_1", "weight": 10},
-	{  "model": "minecraft:block/prismarine_slab_2", "weight": 10},
-	{  "model": "minecraft:block/prismarine_slab_3", "weight": 10}
+	{  "model": "rw_block_mod:block/prismarine_slab_0", "weight": 10},
+	{  "model": "rw_block_mod:block/prismarine_slab_1", "weight": 10},
+	{  "model": "rw_block_mod:block/prismarine_slab_2", "weight": 10},
+	{  "model": "rw_block_mod:block/prismarine_slab_3", "weight": 10}
   ],
     "type=double": {
-      "model": "minecraft:block/prismarine_planks"
+      "model": "rw_block_mod:block/prismarine_planks"
     },
     "type=top": [
-	{  "model": "minecraft:block/prismarine_slab_top_0", "weight": 10},
-	{  "model": "minecraft:block/prismarine_slab_top_1", "weight": 10},
-	{  "model": "minecraft:block/prismarine_slab_top_2", "weight": 10},
-	{  "model": "minecraft:block/prismarine_slab_top_3", "weight": 10}
+	{  "model": "rw_block_mod:block/prismarine_slab_top_0", "weight": 10},
+	{  "model": "rw_block_mod:block/prismarine_slab_top_1", "weight": 10},
+	{  "model": "rw_block_mod:block/prismarine_slab_top_2", "weight": 10},
+	{  "model": "rw_block_mod:block/prismarine_slab_top_3", "weight": 10}
   ]
   }
 }

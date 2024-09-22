@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "rw_block_mod:block/pipeblue2x2_x"
+    },
+    "axis=y": {
+      "model": "rw_block_mod:block/pipeblue2x2_y"
+    },
+    "axis=z": {
+      "model": "rw_block_mod:block/pipeblue2x2_z"
+    }
+  }
+}

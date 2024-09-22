@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "facing=north": [
+      {  "model": "rw_block_mod:block/ccbox6x6_4", "y": 0}
+    ],
+
+    "facing=south": [
+      {  "model": "rw_block_mod:block/ccbox6x6_4", "y": 180}
+    ],
+
+    "facing=east": [
+      {  "model": "rw_block_mod:block/ccbox6x6_4", "y": 90}
+    ],
+
+    "facing=west": [
+      {  "model": "rw_block_mod:block/ccbox6x6_4", "y": 270}
+    ]
+
+
+  }
+}

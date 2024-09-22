@@ -1,9 +1,9 @@
 {
   "variants": {
     "": [
-	{  "model": "minecraft:block/weeping_vines_0"},
-	{  "model": "minecraft:block/weeping_vines_1"},
-	{  "model": "minecraft:block/weeping_vines_2"}
+	{  "model": "rw_block_mod:block/weeping_vines_0"},
+	{  "model": "rw_block_mod:block/weeping_vines_1"},
+	{  "model": "rw_block_mod:block/weeping_vines_2"}
   ]
  }
 }

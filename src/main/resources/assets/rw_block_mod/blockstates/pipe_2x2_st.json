@@ -1,0 +1,21 @@
+{
+  "variants": {
+   	"facing=north": [
+	{  "model": "rw_block_mod:block/pipeblue2x2_7", "y": 90}
+  ],
+
+   	"facing=south": [
+	{  "model": "rw_block_mod:block/pipeblue2x2_7", "y": 270}
+  ],
+
+   	"facing=east": [
+	{  "model": "rw_block_mod:block/pipeblue2x2_7", "y": 180}
+  ],
+
+   	"facing=west": [
+	{  "model": "rw_block_mod:block/pipeblue2x2_7", "y": 0}
+  ]
+
+
+  }
+}

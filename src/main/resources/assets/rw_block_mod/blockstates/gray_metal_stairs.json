@@ -1,204 +1,204 @@
 {
   "variants": {
     "facing=east,half=bottom,shape=inner_left": [
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_0", "uvlock": true, "weight": 10, "y": 270, "x": 0},
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_1", "uvlock": true, "weight": 10, "y": 270, "x": 0},
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_2", "uvlock": true, "weight": 10, "y": 270, "x": 0}
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_0", "uvlock": true, "weight": 10, "y": 270, "x": 0},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_1", "uvlock": true, "weight": 10, "y": 270, "x": 0},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_2", "uvlock": true, "weight": 10, "y": 270, "x": 0}
   ],
     "facing=east,half=bottom,shape=inner_right": [
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_0", "uvlock": true, "weight": 10, "y": 0, "x": 0},
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_1", "uvlock": true, "weight": 10, "y": 0, "x": 0},
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_2", "uvlock": true, "weight": 10, "y": 0, "x": 0}
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_0", "uvlock": true, "weight": 10, "y": 0, "x": 0},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_1", "uvlock": true, "weight": 10, "y": 0, "x": 0},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_2", "uvlock": true, "weight": 10, "y": 0, "x": 0}
   ],
     "facing=east,half=bottom,shape=outer_left": [
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_0", "uvlock": true, "weight": 10, "y": 270, "x": 0},
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_1", "uvlock": true, "weight": 10, "y": 270, "x": 0},
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_2", "uvlock": true, "weight": 10, "y": 270, "x": 0}
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_0", "uvlock": true, "weight": 10, "y": 270, "x": 0},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_1", "uvlock": true, "weight": 10, "y": 270, "x": 0},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_2", "uvlock": true, "weight": 10, "y": 270, "x": 0}
   ],
     "facing=east,half=bottom,shape=outer_right": [
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_0", "uvlock": true, "weight": 10, "y": 0, "x": 0},
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_1", "uvlock": true, "weight": 10, "y": 0, "x": 0},
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_2", "uvlock": true, "weight": 10, "y": 0, "x": 0}
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_0", "uvlock": true, "weight": 10, "y": 0, "x": 0},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_1", "uvlock": true, "weight": 10, "y": 0, "x": 0},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_2", "uvlock": true, "weight": 10, "y": 0, "x": 0}
   ],
     "facing=east,half=bottom,shape=straight": [
-	{  "model": "minecraft:block/dark_prismarine_stairs_0", "weight": 10, "y": 0, "x": 0},
-	{  "model": "minecraft:block/dark_prismarine_stairs_1", "weight": 10, "y": 0, "x": 0},
-	{  "model": "minecraft:block/dark_prismarine_stairs_2", "weight": 10, "y": 0, "x": 0}
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_0", "weight": 10, "y": 0, "x": 0},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_1", "weight": 10, "y": 0, "x": 0},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_2", "weight": 10, "y": 0, "x": 0}
   ],
     "facing=east,half=top,shape=inner_left": [
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_0", "uvlock": true, "weight": 10, "y": 0, "x": 180},
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_1", "uvlock": true, "weight": 10, "y": 0, "x": 180},
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_2", "uvlock": true, "weight": 10, "y": 0, "x": 180}
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_0", "uvlock": true, "weight": 10, "y": 0, "x": 180},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_1", "uvlock": true, "weight": 10, "y": 0, "x": 180},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_2", "uvlock": true, "weight": 10, "y": 0, "x": 180}
   ],
     "facing=east,half=top,shape=inner_right": [
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_0", "uvlock": true, "weight": 10, "y": 90, "x": 180},
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_1", "uvlock": true, "weight": 10, "y": 90, "x": 180},
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_2", "uvlock": true, "weight": 10, "y": 90, "x": 180}
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_0", "uvlock": true, "weight": 10, "y": 90, "x": 180},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_1", "uvlock": true, "weight": 10, "y": 90, "x": 180},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_2", "uvlock": true, "weight": 10, "y": 90, "x": 180}
   ],
     "facing=east,half=top,shape=outer_left": [
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_0", "uvlock": true, "weight": 10, "y": 0, "x": 180},
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_1", "uvlock": true, "weight": 10, "y": 0, "x": 180},
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_2", "uvlock": true, "weight": 10, "y": 0, "x": 180}
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_0", "uvlock": true, "weight": 10, "y": 0, "x": 180},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_1", "uvlock": true, "weight": 10, "y": 0, "x": 180},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_2", "uvlock": true, "weight": 10, "y": 0, "x": 180}
   ],
     "facing=east,half=top,shape=outer_right": [
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_0", "uvlock": true, "weight": 10, "y": 90, "x": 180},
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_1", "uvlock": true, "weight": 10, "y": 90, "x": 180},
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_2", "uvlock": true, "weight": 10, "y": 90, "x": 180}
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_0", "uvlock": true, "weight": 10, "y": 90, "x": 180},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_1", "uvlock": true, "weight": 10, "y": 90, "x": 180},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_2", "uvlock": true, "weight": 10, "y": 90, "x": 180}
   ],
     "facing=east,half=top,shape=straight": [
-	{  "model": "minecraft:block/dark_prismarine_stairs_0", "weight": 10, "y": 0, "x": 180},
-	{  "model": "minecraft:block/dark_prismarine_stairs_1", "weight": 10, "y": 0, "x": 180},
-	{  "model": "minecraft:block/dark_prismarine_stairs_2", "weight": 10, "y": 0, "x": 180}
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_0", "weight": 10, "y": 0, "x": 180},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_1", "weight": 10, "y": 0, "x": 180},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_2", "weight": 10, "y": 0, "x": 180}
   ],
     "facing=north,half=bottom,shape=inner_left": [
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_0", "uvlock": true, "weight": 10, "y": 180, "x": 0},
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_1", "uvlock": true, "weight": 10, "y": 180, "x": 0},
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_2", "uvlock": true, "weight": 10, "y": 180, "x": 0}
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_0", "uvlock": true, "weight": 10, "y": 180, "x": 0},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_1", "uvlock": true, "weight": 10, "y": 180, "x": 0},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_2", "uvlock": true, "weight": 10, "y": 180, "x": 0}
   ],
     "facing=north,half=bottom,shape=inner_right": [
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_0", "uvlock": true, "weight": 10, "y": 270, "x": 0},
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_1", "uvlock": true, "weight": 10, "y": 270, "x": 0},
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_2", "uvlock": true, "weight": 10, "y": 270, "x": 0}
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_0", "uvlock": true, "weight": 10, "y": 270, "x": 0},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_1", "uvlock": true, "weight": 10, "y": 270, "x": 0},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_2", "uvlock": true, "weight": 10, "y": 270, "x": 0}
   ],
     "facing=north,half=bottom,shape=outer_left": [
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_0", "uvlock": true, "weight": 10, "y": 180, "x": 0},
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_1", "uvlock": true, "weight": 10, "y": 180, "x": 0},
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_2", "uvlock": true, "weight": 10, "y": 180, "x": 0}
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_0", "uvlock": true, "weight": 10, "y": 180, "x": 0},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_1", "uvlock": true, "weight": 10, "y": 180, "x": 0},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_2", "uvlock": true, "weight": 10, "y": 180, "x": 0}
   ],
     "facing=north,half=bottom,shape=outer_right": [
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_0", "uvlock": true, "weight": 10, "y": 270, "x": 0},
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_1", "uvlock": true, "weight": 10, "y": 270, "x": 0},
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_2", "uvlock": true, "weight": 10, "y": 270, "x": 0}
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_0", "uvlock": true, "weight": 10, "y": 270, "x": 0},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_1", "uvlock": true, "weight": 10, "y": 270, "x": 0},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_2", "uvlock": true, "weight": 10, "y": 270, "x": 0}
   ],
     "facing=north,half=bottom,shape=straight": [
-	{  "model": "minecraft:block/dark_prismarine_stairs_0", "weight": 10, "y": 270},
-	{  "model": "minecraft:block/dark_prismarine_stairs_1", "weight": 10, "y": 270},
-	{  "model": "minecraft:block/dark_prismarine_stairs_2", "weight": 10, "y": 270}
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_0", "weight": 10, "y": 270},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_1", "weight": 10, "y": 270},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_2", "weight": 10, "y": 270}
   ],
     "facing=north,half=top,shape=inner_left": [
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_0", "uvlock": true, "weight": 10, "y": 270, "x": 180},
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_1", "uvlock": true, "weight": 10, "y": 270, "x": 180},
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_2", "uvlock": true, "weight": 10, "y": 270, "x": 180}
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_0", "uvlock": true, "weight": 10, "y": 270, "x": 180},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_1", "uvlock": true, "weight": 10, "y": 270, "x": 180},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_2", "uvlock": true, "weight": 10, "y": 270, "x": 180}
   ],
     "facing=north,half=top,shape=inner_right": [
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_0", "uvlock": true, "weight": 10, "y": 0, "x": 180},
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_1", "uvlock": true, "weight": 10, "y": 0, "x": 180},
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_2", "uvlock": true, "weight": 10, "y": 0, "x": 180}
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_0", "uvlock": true, "weight": 10, "y": 0, "x": 180},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_1", "uvlock": true, "weight": 10, "y": 0, "x": 180},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_2", "uvlock": true, "weight": 10, "y": 0, "x": 180}
   ],
     "facing=north,half=top,shape=outer_left": [
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_0", "uvlock": true, "weight": 10, "y": 270, "x": 180},
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_1", "uvlock": true, "weight": 10, "y": 270, "x": 180},
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_2", "uvlock": true, "weight": 10, "y": 270, "x": 180}
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_0", "uvlock": true, "weight": 10, "y": 270, "x": 180},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_1", "uvlock": true, "weight": 10, "y": 270, "x": 180},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_2", "uvlock": true, "weight": 10, "y": 270, "x": 180}
   ],
     "facing=north,half=top,shape=outer_right": [
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_0", "uvlock": true, "weight": 10, "y": 0, "x": 180},
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_1", "uvlock": true, "weight": 10, "y": 0, "x": 180},
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_2", "uvlock": true, "weight": 10, "y": 0, "x": 180}
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_0", "uvlock": true, "weight": 10, "y": 0, "x": 180},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_1", "uvlock": true, "weight": 10, "y": 0, "x": 180},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_2", "uvlock": true, "weight": 10, "y": 0, "x": 180}
   ],
     "facing=north,half=top,shape=straight": [
-	{  "model": "minecraft:block/dark_prismarine_stairs_0", "weight": 10, "y": 270, "x": 180},
-	{  "model": "minecraft:block/dark_prismarine_stairs_1", "weight": 10, "y": 270, "x": 180},
-	{  "model": "minecraft:block/dark_prismarine_stairs_2", "weight": 10, "y": 270, "x": 180}
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_0", "weight": 10, "y": 270, "x": 180},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_1", "weight": 10, "y": 270, "x": 180},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_2", "weight": 10, "y": 270, "x": 180}
   ],
     "facing=south,half=bottom,shape=inner_left": [
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_0", "uvlock": true, "weight": 10, "y": 0, "x": 0},
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_1", "uvlock": true, "weight": 10, "y": 0, "x": 0},
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_2", "uvlock": true, "weight": 10, "y": 0, "x": 0}
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_0", "uvlock": true, "weight": 10, "y": 0, "x": 0},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_1", "uvlock": true, "weight": 10, "y": 0, "x": 0},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_2", "uvlock": true, "weight": 10, "y": 0, "x": 0}
   ],
     "facing=south,half=bottom,shape=inner_right": [
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_0", "uvlock": true, "weight": 10, "y": 90, "x": 0},
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_1", "uvlock": true, "weight": 10, "y": 90, "x": 0},
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_2", "uvlock": true, "weight": 10, "y": 90, "x": 0}
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_0", "uvlock": true, "weight": 10, "y": 90, "x": 0},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_1", "uvlock": true, "weight": 10, "y": 90, "x": 0},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_2", "uvlock": true, "weight": 10, "y": 90, "x": 0}
   ],
     "facing=south,half=bottom,shape=outer_left": [
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_0", "uvlock": true, "weight": 10, "y": 0, "x": 0},
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_1", "uvlock": true, "weight": 10, "y": 0, "x": 0},
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_2", "uvlock": true, "weight": 10, "y": 0, "x": 0}
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_0", "uvlock": true, "weight": 10, "y": 0, "x": 0},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_1", "uvlock": true, "weight": 10, "y": 0, "x": 0},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_2", "uvlock": true, "weight": 10, "y": 0, "x": 0}
   ],
     "facing=south,half=bottom,shape=outer_right": [
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_0", "uvlock": true, "weight": 10, "y": 90, "x": 0},
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_1", "uvlock": true, "weight": 10, "y": 90, "x": 0},
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_2", "uvlock": true, "weight": 10, "y": 90, "x": 0}
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_0", "uvlock": true, "weight": 10, "y": 90, "x": 0},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_1", "uvlock": true, "weight": 10, "y": 90, "x": 0},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_2", "uvlock": true, "weight": 10, "y": 90, "x": 0}
   ],
     "facing=south,half=bottom,shape=straight": [
-	{  "model": "minecraft:block/dark_prismarine_stairs_0", "weight": 10, "y": 90, "x": 0},
-	{  "model": "minecraft:block/dark_prismarine_stairs_1", "weight": 10, "y": 90, "x": 0},
-	{  "model": "minecraft:block/dark_prismarine_stairs_2", "weight": 10, "y": 90, "x": 0}
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_0", "weight": 10, "y": 90, "x": 0},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_1", "weight": 10, "y": 90, "x": 0},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_2", "weight": 10, "y": 90, "x": 0}
   ],
     "facing=south,half=top,shape=inner_left": [
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_0", "uvlock": true, "weight": 10, "y": 90, "x": 180},
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_1", "uvlock": true, "weight": 10, "y": 90, "x": 180},
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_2", "uvlock": true, "weight": 10, "y": 90, "x": 180}
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_0", "uvlock": true, "weight": 10, "y": 90, "x": 180},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_1", "uvlock": true, "weight": 10, "y": 90, "x": 180},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_2", "uvlock": true, "weight": 10, "y": 90, "x": 180}
   ],
     "facing=south,half=top,shape=inner_right": [
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_0", "uvlock": true, "weight": 10, "y": 180, "x": 180},
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_1", "uvlock": true, "weight": 10, "y": 180, "x": 180},
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_2", "uvlock": true, "weight": 10, "y": 180, "x": 180}
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_0", "uvlock": true, "weight": 10, "y": 180, "x": 180},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_1", "uvlock": true, "weight": 10, "y": 180, "x": 180},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_2", "uvlock": true, "weight": 10, "y": 180, "x": 180}
   ],
     "facing=south,half=top,shape=outer_left": [
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_0", "uvlock": true, "weight": 10, "y": 90, "x": 180},
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_1", "uvlock": true, "weight": 10, "y": 90, "x": 180},
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_2", "uvlock": true, "weight": 10, "y": 90, "x": 180}
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_0", "uvlock": true, "weight": 10, "y": 90, "x": 180},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_1", "uvlock": true, "weight": 10, "y": 90, "x": 180},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_2", "uvlock": true, "weight": 10, "y": 90, "x": 180}
   ],
     "facing=south,half=top,shape=outer_right": [
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_0", "uvlock": true, "weight": 10, "y": 180, "x": 180},
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_1", "uvlock": true, "weight": 10, "y": 180, "x": 180},
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_2", "uvlock": true, "weight": 10, "y": 180, "x": 180}
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_0", "uvlock": true, "weight": 10, "y": 180, "x": 180},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_1", "uvlock": true, "weight": 10, "y": 180, "x": 180},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_2", "uvlock": true, "weight": 10, "y": 180, "x": 180}
   ],
     "facing=south,half=top,shape=straight": [
-	{  "model": "minecraft:block/dark_prismarine_stairs_0", "weight": 10, "y": 90, "x": 180},
-	{  "model": "minecraft:block/dark_prismarine_stairs_1", "weight": 10, "y": 90, "x": 180},
-	{  "model": "minecraft:block/dark_prismarine_stairs_2", "weight": 10, "y": 90, "x": 180}
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_0", "weight": 10, "y": 90, "x": 180},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_1", "weight": 10, "y": 90, "x": 180},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_2", "weight": 10, "y": 90, "x": 180}
   ],
     "facing=west,half=bottom,shape=inner_left": [
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_0", "uvlock": true, "weight": 10, "y": 90, "x": 0},
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_1", "uvlock": true, "weight": 10, "y": 90, "x": 0},
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_2", "uvlock": true, "weight": 10, "y": 90, "x": 0}
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_0", "uvlock": true, "weight": 10, "y": 90, "x": 0},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_1", "uvlock": true, "weight": 10, "y": 90, "x": 0},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_2", "uvlock": true, "weight": 10, "y": 90, "x": 0}
   ],
     "facing=west,half=bottom,shape=inner_right": [
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_0", "uvlock": true, "weight": 10, "y": 180, "x": 0},
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_1", "uvlock": true, "weight": 10, "y": 180, "x": 0},
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_2", "uvlock": true, "weight": 10, "y": 180, "x": 0}
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_0", "uvlock": true, "weight": 10, "y": 180, "x": 0},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_1", "uvlock": true, "weight": 10, "y": 180, "x": 0},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_2", "uvlock": true, "weight": 10, "y": 180, "x": 0}
   ],
     "facing=west,half=bottom,shape=outer_left": [
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_0", "uvlock": true, "weight": 10, "y": 90, "x": 0},
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_1", "uvlock": true, "weight": 10, "y": 90, "x": 0},
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_2", "uvlock": true, "weight": 10, "y": 90, "x": 0}
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_0", "uvlock": true, "weight": 10, "y": 90, "x": 0},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_1", "uvlock": true, "weight": 10, "y": 90, "x": 0},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_2", "uvlock": true, "weight": 10, "y": 90, "x": 0}
   ],
     "facing=west,half=bottom,shape=outer_right": [
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_0", "uvlock": true, "weight": 10, "y": 180, "x": 0},
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_1", "uvlock": true, "weight": 10, "y": 180, "x": 0},
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_2", "uvlock": true, "weight": 10, "y": 180, "x": 0}
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_0", "uvlock": true, "weight": 10, "y": 180, "x": 0},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_1", "uvlock": true, "weight": 10, "y": 180, "x": 0},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_2", "uvlock": true, "weight": 10, "y": 180, "x": 0}
   ],
     "facing=west,half=bottom,shape=straight": [
-	{  "model": "minecraft:block/dark_prismarine_stairs_0", "weight": 10, "y": 180, "x": 0},
-	{  "model": "minecraft:block/dark_prismarine_stairs_1", "weight": 10, "y": 180, "x": 0},
-	{  "model": "minecraft:block/dark_prismarine_stairs_2", "weight": 10, "y": 180, "x": 0}
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_0", "weight": 10, "y": 180, "x": 0},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_1", "weight": 10, "y": 180, "x": 0},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_2", "weight": 10, "y": 180, "x": 0}
   ],
     "facing=west,half=top,shape=inner_left": [
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_0", "uvlock": true, "weight": 10, "y": 180, "x": 180},
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_1", "uvlock": true, "weight": 10, "y": 180, "x": 180},
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_2", "uvlock": true, "weight": 10, "y": 180, "x": 180}
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_0", "uvlock": true, "weight": 10, "y": 180, "x": 180},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_1", "uvlock": true, "weight": 10, "y": 180, "x": 180},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_2", "uvlock": true, "weight": 10, "y": 180, "x": 180}
   ],
     "facing=west,half=top,shape=inner_right": [
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_0", "uvlock": true, "weight": 10, "y": 270, "x": 180},
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_1", "uvlock": true, "weight": 10, "y": 270, "x": 180},
-	{  "model": "minecraft:block/dark_prismarine_stairs_inner_2", "uvlock": true, "weight": 10, "y": 270, "x": 180}
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_0", "uvlock": true, "weight": 10, "y": 270, "x": 180},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_1", "uvlock": true, "weight": 10, "y": 270, "x": 180},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_inner_2", "uvlock": true, "weight": 10, "y": 270, "x": 180}
   ],
     "facing=west,half=top,shape=outer_left": [
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_0", "uvlock": true, "weight": 10, "y": 180, "x": 180},
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_1", "uvlock": true, "weight": 10, "y": 180, "x": 180},
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_2", "uvlock": true, "weight": 10, "y": 180, "x": 180}
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_0", "uvlock": true, "weight": 10, "y": 180, "x": 180},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_1", "uvlock": true, "weight": 10, "y": 180, "x": 180},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_2", "uvlock": true, "weight": 10, "y": 180, "x": 180}
   ],
     "facing=west,half=top,shape=outer_right": [
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_0", "uvlock": true, "weight": 10, "y": 270, "x": 180},
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_1", "uvlock": true, "weight": 10, "y": 270, "x": 180},
-	{  "model": "minecraft:block/dark_prismarine_stairs_outer_2", "uvlock": true, "weight": 10, "y": 270, "x": 180}
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_0", "uvlock": true, "weight": 10, "y": 270, "x": 180},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_1", "uvlock": true, "weight": 10, "y": 270, "x": 180},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_outer_2", "uvlock": true, "weight": 10, "y": 270, "x": 180}
   ],
     "facing=west,half=top,shape=straight": [
-	{  "model": "minecraft:block/dark_prismarine_stairs_0", "weight": 10, "y": 180, "x": 180},
-	{  "model": "minecraft:block/dark_prismarine_stairs_1", "weight": 10, "y": 180, "x": 180},
-	{  "model": "minecraft:block/dark_prismarine_stairs_2", "weight": 10, "y": 180, "x": 180}
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_0", "weight": 10, "y": 180, "x": 180},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_1", "weight": 10, "y": 180, "x": 180},
+	{  "model": "rw_block_mod:block/dark_prismarine_stairs_2", "weight": 10, "y": 180, "x": 180}
   ]
   }
 }

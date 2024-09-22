@@ -13,6 +13,94 @@ import net.scout.rw_block_mod.BlockMod;
 
 public class ModBlocks {
 
+
+    public static final Block VENT_HUB_6X6_1 = registerBlock("vent_hub_6x6_1",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque().noCollision()));
+    public static final Block VENT_HUB_6X6_2 = registerBlock("vent_hub_6x6_2",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque().noCollision()));
+    public static final Block VENT_HUB_6X6_3 = registerBlock("vent_hub_6x6_3",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque().noCollision()));
+    public static final Block VENT_HUB_6X6_4 = registerBlock("vent_hub_6x6_4",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque().noCollision()));
+    public static final Block VENT_HUB_4X4_1 = registerBlock("vent_hub_4x4_1",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque().noCollision()));
+    public static final Block VENT_HUB_4X4_2 = registerBlock("vent_hub_4x4_2",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque().noCollision()));
+    public static final Block VENT_HUB_4X6_1 = registerBlock("vent_hub_4x6_1",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque().noCollision()));
+    public static final Block VENT_HUB_4X6_2 = registerBlock("vent_hub_4x6_2",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque().noCollision()));
+    public static final Block STONE_HEAD_1 = registerBlock("stone_head_1",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block STONE_HEAD_2 = registerBlock("stone_head_2",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block STONE_HEAD_3 = registerBlock("stone_head_3",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block STONE_HEAD_4 = registerBlock("stone_head_4",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block X_BOX_4X4_1 = registerBlock("x_box_4x4_1",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block X_BOX_4X4_2 = registerBlock("x_box_4x4_2",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block X_BOX_4X6_1 = registerBlock("x_box_4x6_1",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block X_BOX_4X6_2 = registerBlock("x_box_4x6_2",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block X_BOX_6X6_1 = registerBlock("x_box_6x6_1",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block X_BOX_6X6_2 = registerBlock("x_box_6x6_2",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block AC_UNIT = registerBlock("ac_unit",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block DYSON_FAN = registerBlock("dyson_fan",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block BOX_3X3 = registerBlock("box_3x3",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block PILLAR = registerBlock("pillar",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block GW_BEAM_1 = registerBlock("gw_beam_1",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block GW_BEAM_2 = registerBlock("gw_beam_2",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block GW_BEAM_3 = registerBlock("gw_beam_3",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block VENT_HUB_SIDE = registerBlock("vent_hub_side",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block SCREW_BOX_1 = registerBlock("screw_box_1",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block SCREW_BOX_2 = registerBlock("screw_box_2",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block SCREW_BOX_3 = registerBlock("screw_box_3",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block SCREW_BOX_4 = registerBlock("screw_box_4",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block SCREW_BOX_5 = registerBlock("screw_box_5",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block SCREW_BOX_6 = registerBlock("screw_box_6",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block SCREW_BOX_7 = registerBlock("screw_box_7",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block SCREW_BOX_8 = registerBlock("screw_box_8",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block CHAIN_1 = registerBlock("chain_1",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block CHAIN_2 = registerBlock("chain_2",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block CHAIN_3 = registerBlock("chain_3",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block CHAIN_4 = registerBlock("chain_4",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block CHAIN_5 = registerBlock("chain_5",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block CABLE_1 = registerBlock("cable_1",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block CABLE_2 = registerBlock("cable_2",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block CABLE_3 = registerBlock("cable_3",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+
+
+
     public static final Block BIG_GEAR = registerBlock("big_gear",
             new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
     public static final Block WHEEL = registerBlock("wheel",
@@ -61,7 +149,7 @@ public class ModBlocks {
     public static final Block LICHEN = registerBlock("lichen",
             new GlowLichenBlock (FabricBlockSettings.copyOf(Blocks.GLOW_LICHEN).nonOpaque().noCollision().luminance(0)));
     public static final Block ROT_WALL = registerBlock("rot_wall",
-            new GlowLichenBlock (FabricBlockSettings.copyOf(Blocks.GLOW_LICHEN).nonOpaque().noCollision().luminance(0)));
+            new SculkVeinBlock (FabricBlockSettings.copyOf(Blocks.GLOW_LICHEN).nonOpaque().noCollision()));
 
     public static final Block BATGRASS = registerBlock("batgrass",
             new DeadCoralBlock (FabricBlockSettings.copyOf(Blocks.ALLIUM).nonOpaque().noCollision()));
@@ -146,6 +234,16 @@ public class ModBlocks {
             new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
     public static final Block GRAY_PIPE_SD = registerBlock("gray_pipe_sd",
             new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block PIPE_2X2_STRAIGHT = registerBlock("pipe_2x2_straight",
+            new PillarBlock (FabricBlockSettings.copyOf(Blocks.COBBLESTONE).nonOpaque()));
+    public static final Block PIPE_2X2_SS = registerBlock("pipe_2x2_ss",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block PIPE_2X2_ST = registerBlock("pipe_2x2_st",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block PIPE_2X2_SD = registerBlock("pipe_2x2_sd",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block PIPE_2X2_TOP = registerBlock("pipe_2x2_top",
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
 
     public static final Block BROWN_CHEVRON = registerBlock("brown_chevron",
             new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
@@ -199,6 +297,11 @@ public class ModBlocks {
             new PillarBlock (FabricBlockSettings.copyOf(Blocks.COBBLESTONE)));
     public static final Block RED_PIPE_CORNER = registerBlock("red_pipe_block_corner",
             new PillarBlock (FabricBlockSettings.copyOf(Blocks.COBBLESTONE)));
+    public static final Block GRATE_SIDE = registerBlock("grate_side",
+            new PillarBlock (FabricBlockSettings.copyOf(Blocks.COBBLESTONE)));
+    public static final Block GRATE_MIDDLE = registerBlock("grate_middle",
+            new PillarBlock (FabricBlockSettings.copyOf(Blocks.COBBLESTONE)));
+
 
     public static final Block RED_SHIPMENT = registerBlock("red_shipment",
             new Block (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));

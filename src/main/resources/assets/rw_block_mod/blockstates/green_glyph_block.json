@@ -1,11 +1,11 @@
 {
   "variants": {
     "": [
-	{  "model": "minecraft:block/lime_wool_0"},
-	{  "model": "minecraft:block/lime_wool_1"},
-	{  "model": "minecraft:block/lime_wool_2"},
-	{  "model": "minecraft:block/lime_wool_3"},
-	{  "model": "minecraft:block/lime_wool_4"}
+	{  "model": "rw_block_mod:block/lime_wool_0"},
+	{  "model": "rw_block_mod:block/lime_wool_1"},
+	{  "model": "rw_block_mod:block/lime_wool_2"},
+	{  "model": "rw_block_mod:block/lime_wool_3"},
+	{  "model": "rw_block_mod:block/lime_wool_4"}
 
   ]
  }

@@ -422,5 +422,9 @@
 
 
 
-  "itemgroup.rain_world_blocks": "Palletized Blocks"
+  "itemgroup.rain_world_blocks": "Palletized Blocks",
+  "itemgroup.rain_world_blocks_2": "Blocks",
+  "itemgroup.rain_world_plants": "Plants",
+  "itemgroup.rain_world_pipes": "Pipes",
+  "itemgroup.rain_world_models": "Models"
 }

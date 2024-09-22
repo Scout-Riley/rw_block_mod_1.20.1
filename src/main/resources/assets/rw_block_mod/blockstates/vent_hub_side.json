@@ -1,0 +1,25 @@
+{
+  "variants": {
+    "facing=north": [
+      {  "model": "rw_block_mod:block/ssvent_side_0", "y": 0},
+      {  "model": "rw_block_mod:block/ssvent_side_1", "y": 0}
+    ],
+
+    "facing=south": [
+      {  "model": "rw_block_mod:block/ssvent_side_0", "y": 180},
+      {  "model": "rw_block_mod:block/ssvent_side_1", "y": 180}
+    ],
+
+    "facing=east": [
+      {  "model": "rw_block_mod:block/ssvent_side_0", "y": 90},
+      {  "model": "rw_block_mod:block/ssvent_side_1", "y": 90}
+    ],
+
+    "facing=west": [
+      {  "model": "rw_block_mod:block/ssvent_side_0", "y": 270},
+      {  "model": "rw_block_mod:block/ssvent_side_1", "y": 270}
+    ]
+
+
+  }
+}

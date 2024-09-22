@@ -382,6 +382,43 @@ public class ModItemGroups {
 
                     }).build());
 
+
+    public static final ItemGroup RAIN_WORLD_BLOCKS_2 = Registry.register(Registries.ITEM_GROUP,
+            new Identifier(BlockMod.MOD_ID, "rain_world_blocks_2"),
+            FabricItemGroup.builder().displayName(Text.translatable("itemgroup.rain_world_blocks_2"))
+                    .icon(() -> new ItemStack(ModBlocks.BIG_BRICKS_WORN_1)).entries((displayContext, entries) -> {
+                        entries.add(ModBlocks.BIG_BRICKS_WORN_1);
+
+
+                    }).build());
+
+    public static final ItemGroup RAIN_WORLD_PLANTS = Registry.register(Registries.ITEM_GROUP,
+            new Identifier(BlockMod.MOD_ID, "rain_world_plants"),
+            FabricItemGroup.builder().displayName(Text.translatable("itemgroup.rain_world_plants"))
+                    .icon(() -> new ItemStack(ModBlocks.GREEN_SMALL_PLANT)).entries((displayContext, entries) -> {
+                        entries.add(ModBlocks.BIG_BRICKS_WORN_1);
+
+
+                    }).build());
+
+    public static final ItemGroup RAIN_WORLD_PIPES = Registry.register(Registries.ITEM_GROUP,
+            new Identifier(BlockMod.MOD_ID, "rain_world_pipes"),
+            FabricItemGroup.builder().displayName(Text.translatable("itemgroup.rain_world_pipes"))
+                    .icon(() -> new ItemStack(ModBlocks.BLUE_PIPE_STRAIGHT)).entries((displayContext, entries) -> {
+                        entries.add(ModBlocks.BIG_BRICKS_WORN_1);
+
+
+                    }).build());
+
+    public static final ItemGroup RAIN_WORLD_MODELS = Registry.register(Registries.ITEM_GROUP,
+            new Identifier(BlockMod.MOD_ID, "rain_world_models"),
+            FabricItemGroup.builder().displayName(Text.translatable("itemgroup.rain_world_models"))
+                    .icon(() -> new ItemStack(ModBlocks.BIG_GEAR)).entries((displayContext, entries) -> {
+                        entries.add(ModBlocks.BIG_BRICKS_WORN_1);
+
+
+                    }).build());
+
     public static void registerItemGroups() {
         BlockMod.LOGGER.info("Registering Item Groups for " + BlockMod.MOD_ID);
     }

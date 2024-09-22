@@ -2,10 +2,10 @@
   "multipart": [
     {
       "apply": [
-	{  "model": "minecraft:block/prismarine_wall_post_0"},
-	{  "model": "minecraft:block/prismarine_wall_post_1"},
-	{  "model": "minecraft:block/prismarine_wall_post_2"},
-	{  "model": "minecraft:block/prismarine_wall_post_3"}
+	{  "model": "rw_block_mod:block/prismarine_wall_post_0"},
+	{  "model": "rw_block_mod:block/prismarine_wall_post_1"},
+	{  "model": "rw_block_mod:block/prismarine_wall_post_2"},
+	{  "model": "rw_block_mod:block/prismarine_wall_post_3"}
   ],
       "when": {
         "up": "true"
@@ -13,10 +13,10 @@
     },
     {
       "apply": [
-	{  "model": "minecraft:block/prismarine_wall_side_0", "uvlock": true, "y": 0},
-	{  "model": "minecraft:block/prismarine_wall_side_1", "uvlock": true, "y": 0},
-	{  "model": "minecraft:block/prismarine_wall_side_2", "uvlock": true, "y": 0},
-	{  "model": "minecraft:block/prismarine_wall_side_3", "uvlock": true, "y": 0}
+	{  "model": "rw_block_mod:block/prismarine_wall_side_0", "uvlock": true, "y": 0},
+	{  "model": "rw_block_mod:block/prismarine_wall_side_1", "uvlock": true, "y": 0},
+	{  "model": "rw_block_mod:block/prismarine_wall_side_2", "uvlock": true, "y": 0},
+	{  "model": "rw_block_mod:block/prismarine_wall_side_3", "uvlock": true, "y": 0}
   ],
       "when": {
         "north": "low"
@@ -24,10 +24,10 @@
     },
     {
       "apply": [
-	{  "model": "minecraft:block/prismarine_wall_side_0", "uvlock": true, "y": 90},
-	{  "model": "minecraft:block/prismarine_wall_side_1", "uvlock": true, "y": 90},
-	{  "model": "minecraft:block/prismarine_wall_side_2", "uvlock": true, "y": 90},
-	{  "model": "minecraft:block/prismarine_wall_side_3", "uvlock": true, "y": 90}
+	{  "model": "rw_block_mod:block/prismarine_wall_side_0", "uvlock": true, "y": 90},
+	{  "model": "rw_block_mod:block/prismarine_wall_side_1", "uvlock": true, "y": 90},
+	{  "model": "rw_block_mod:block/prismarine_wall_side_2", "uvlock": true, "y": 90},
+	{  "model": "rw_block_mod:block/prismarine_wall_side_3", "uvlock": true, "y": 90}
   ],
       "when": {
         "east": "low"
@@ -35,10 +35,10 @@
     },
     {
       "apply": [
-	{  "model": "minecraft:block/prismarine_wall_side_0", "uvlock": true, "y": 180},
-	{  "model": "minecraft:block/prismarine_wall_side_1", "uvlock": true, "y": 180},
-	{  "model": "minecraft:block/prismarine_wall_side_2", "uvlock": true, "y": 180},
-	{  "model": "minecraft:block/prismarine_wall_side_3", "uvlock": true, "y": 180}
+	{  "model": "rw_block_mod:block/prismarine_wall_side_0", "uvlock": true, "y": 180},
+	{  "model": "rw_block_mod:block/prismarine_wall_side_1", "uvlock": true, "y": 180},
+	{  "model": "rw_block_mod:block/prismarine_wall_side_2", "uvlock": true, "y": 180},
+	{  "model": "rw_block_mod:block/prismarine_wall_side_3", "uvlock": true, "y": 180}
   ],
       "when": {
         "south": "low"
@@ -46,10 +46,10 @@
     },
     {
       "apply": [
-	{  "model": "minecraft:block/prismarine_wall_side_0", "uvlock": true, "y": 270},
-	{  "model": "minecraft:block/prismarine_wall_side_1", "uvlock": true, "y": 270},
-	{  "model": "minecraft:block/prismarine_wall_side_2", "uvlock": true, "y": 270},
-	{  "model": "minecraft:block/prismarine_wall_side_3", "uvlock": true, "y": 270}
+	{  "model": "rw_block_mod:block/prismarine_wall_side_0", "uvlock": true, "y": 270},
+	{  "model": "rw_block_mod:block/prismarine_wall_side_1", "uvlock": true, "y": 270},
+	{  "model": "rw_block_mod:block/prismarine_wall_side_2", "uvlock": true, "y": 270},
+	{  "model": "rw_block_mod:block/prismarine_wall_side_3", "uvlock": true, "y": 270}
   ],
       "when": {
         "west": "low"
@@ -57,10 +57,10 @@
     },
     {
       "apply": [
-	{  "model": "minecraft:block/prismarine_wall_side_tall_0", "uvlock": true, "y": 0},
-	{  "model": "minecraft:block/prismarine_wall_side_tall_1", "uvlock": true, "y": 0},
-	{  "model": "minecraft:block/prismarine_wall_side_tall_2", "uvlock": true, "y": 0},
-	{  "model": "minecraft:block/prismarine_wall_side_tall_3", "uvlock": true, "y": 0}
+	{  "model": "rw_block_mod:block/prismarine_wall_side_tall_0", "uvlock": true, "y": 0},
+	{  "model": "rw_block_mod:block/prismarine_wall_side_tall_1", "uvlock": true, "y": 0},
+	{  "model": "rw_block_mod:block/prismarine_wall_side_tall_2", "uvlock": true, "y": 0},
+	{  "model": "rw_block_mod:block/prismarine_wall_side_tall_3", "uvlock": true, "y": 0}
   ],
       "when": {
         "north": "tall"
@@ -68,10 +68,10 @@
     },
     {
       "apply": [
-	{  "model": "minecraft:block/prismarine_wall_side_tall_0", "uvlock": true, "y": 90},
-	{  "model": "minecraft:block/prismarine_wall_side_tall_1", "uvlock": true, "y": 90},
-	{  "model": "minecraft:block/prismarine_wall_side_tall_2", "uvlock": true, "y": 90},
-	{  "model": "minecraft:block/prismarine_wall_side_tall_3", "uvlock": true, "y": 90}
+	{  "model": "rw_block_mod:block/prismarine_wall_side_tall_0", "uvlock": true, "y": 90},
+	{  "model": "rw_block_mod:block/prismarine_wall_side_tall_1", "uvlock": true, "y": 90},
+	{  "model": "rw_block_mod:block/prismarine_wall_side_tall_2", "uvlock": true, "y": 90},
+	{  "model": "rw_block_mod:block/prismarine_wall_side_tall_3", "uvlock": true, "y": 90}
   ],
       "when": {
         "east": "tall"
@@ -79,10 +79,10 @@
     },
     {
       "apply": [
-	{  "model": "minecraft:block/prismarine_wall_side_tall_0", "uvlock": true, "y": 180},
-	{  "model": "minecraft:block/prismarine_wall_side_tall_1", "uvlock": true, "y": 180},
-	{  "model": "minecraft:block/prismarine_wall_side_tall_2", "uvlock": true, "y": 180},
-	{  "model": "minecraft:block/prismarine_wall_side_tall_3", "uvlock": true, "y": 180}
+	{  "model": "rw_block_mod:block/prismarine_wall_side_tall_0", "uvlock": true, "y": 180},
+	{  "model": "rw_block_mod:block/prismarine_wall_side_tall_1", "uvlock": true, "y": 180},
+	{  "model": "rw_block_mod:block/prismarine_wall_side_tall_2", "uvlock": true, "y": 180},
+	{  "model": "rw_block_mod:block/prismarine_wall_side_tall_3", "uvlock": true, "y": 180}
   ],
       "when": {
         "south": "tall"
@@ -90,10 +90,10 @@
     },
     {
       "apply": [
-	{  "model": "minecraft:block/prismarine_wall_side_tall_0", "uvlock": true, "y": 270},
-	{  "model": "minecraft:block/prismarine_wall_side_tall_1", "uvlock": true, "y": 270},
-	{  "model": "minecraft:block/prismarine_wall_side_tall_2", "uvlock": true, "y": 270},
-	{  "model": "minecraft:block/prismarine_wall_side_tall_3", "uvlock": true, "y": 270}
+	{  "model": "rw_block_mod:block/prismarine_wall_side_tall_0", "uvlock": true, "y": 270},
+	{  "model": "rw_block_mod:block/prismarine_wall_side_tall_1", "uvlock": true, "y": 270},
+	{  "model": "rw_block_mod:block/prismarine_wall_side_tall_2", "uvlock": true, "y": 270},
+	{  "model": "rw_block_mod:block/prismarine_wall_side_tall_3", "uvlock": true, "y": 270}
   ],
       "when": {
         "west": "tall"

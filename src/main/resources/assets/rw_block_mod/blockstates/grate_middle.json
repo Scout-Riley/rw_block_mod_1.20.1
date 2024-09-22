@@ -1,0 +1,21 @@
+{
+  "variants": {
+   	"facing=north": [
+	{  "model": "rw_block_mod:block/grate_middle_worn", "y": 90}
+  ],
+
+   	"facing=south": [
+	{  "model": "rw_block_mod:block/grate_middle_worn", "y": 270}
+  ],
+
+   	"facing=east": [
+	{  "model": "rw_block_mod:block/grate_middle_worn", "y": 180}
+  ],
+
+   	"facing=west": [
+	{  "model": "rw_block_mod:block/grate_middle_worn", "y": 0}
+  ]
+
+
+  }
+}
