@@ -386,8 +386,50 @@ public class ModItemGroups {
     public static final ItemGroup RAIN_WORLD_BLOCKS_2 = Registry.register(Registries.ITEM_GROUP,
             new Identifier(BlockMod.MOD_ID, "rain_world_blocks_2"),
             FabricItemGroup.builder().displayName(Text.translatable("itemgroup.rain_world_blocks_2"))
-                    .icon(() -> new ItemStack(ModBlocks.BIG_BRICKS_WORN_1)).entries((displayContext, entries) -> {
-                        entries.add(ModBlocks.BIG_BRICKS_WORN_1);
+                    .icon(() -> new ItemStack(ModBlocks.RED_GLYPH_STONE)).entries((displayContext, entries) -> {
+                        entries.add(ModBlocks.BLACK_CHEVRON);
+                        entries.add(ModBlocks.BROWN_CHEVRON);
+                        entries.add(ModBlocks.BLUE_SHIPMENT);
+                        entries.add(ModBlocks.BLUE_SHIPMENT_EDGE);
+                        entries.add(ModBlocks.GREEN_SHIPMENT);
+                        entries.add(ModBlocks.GREEN_SHIPMENT_EDGE);
+                        entries.add(ModBlocks.RED_SHIPMENT);
+                        entries.add(ModBlocks.RED_SHIPMENT_EDGE);
+                        entries.add(ModBlocks.YELLOW_SHIPMENT);
+                        entries.add(ModBlocks.YELLOW_SHIPMENT_EDGE);
+                        entries.add(ModBlocks.CC_BEAM_HORIZONTAL);
+                        entries.add(ModBlocks.CC_BEAM_VERTICAL);
+                        entries.add(ModBlocks.CC_DIAGONAL_BEAM);
+                        entries.add(ModBlocks.CIRCUIT_BOARD_BLOCK);
+                        entries.add(ModBlocks.DIAGONAL_BEAM);
+                        entries.add(ModBlocks.X_BEAM);
+                        entries.add(ModBlocks.HORIZONTAL_DIAGONAL_BEAM);
+                        entries.add(ModBlocks.HORIZONTAL_X_BEAM);
+                        entries.add(ModBlocks.GLASS_1);
+                        entries.add(ModBlocks.GLASS_2);
+                        entries.add(ModBlocks.GLASS_3);
+                        entries.add(ModBlocks.GLASS_4);
+                        entries.add(ModBlocks.GLASS_PANE_2);
+                        entries.add(ModBlocks.GLASS_PANE_3);
+                        entries.add(ModBlocks.GRATE_MIDDLE);
+                        entries.add(ModBlocks.GRATE_SIDE);
+                        entries.add(ModBlocks.GRAY_METAL);
+                        entries.add(ModBlocks.GRAY_METAL_STAIRS);
+                        entries.add(ModBlocks.GREEN_GLYPH_BLOCK);
+                        entries.add(ModBlocks.MEAT_BLOCK);
+                        entries.add(ModBlocks.RED_GLYPH_STONE);
+                        entries.add(ModBlocks.ROT_BLOCK);
+                        entries.add(ModBlocks.RW_DIRT);
+                        entries.add(ModBlocks.SL_WORN_STONE);
+                        entries.add(ModBlocks.WORN_STONE);
+                        entries.add(ModBlocks.WORN_STONE_SLAB);
+                        entries.add(ModBlocks.WORN_STONE_STAIRS);
+                        entries.add(ModBlocks.WORN_STONE_WALL);
+                        entries.add(ModBlocks.SLIGHTLY_DIRTY_WORN_STONE);
+                        entries.add(ModBlocks.DIRTY_WORN_STONE);
+                        entries.add(ModBlocks.YELLOW_GLYPH_BLOCK_1);
+                        entries.add(ModBlocks.YELLOW_GLYPH_BLOCK_2);
+
 
 
                     }).build());
@@ -396,7 +438,29 @@ public class ModItemGroups {
             new Identifier(BlockMod.MOD_ID, "rain_world_plants"),
             FabricItemGroup.builder().displayName(Text.translatable("itemgroup.rain_world_plants"))
                     .icon(() -> new ItemStack(ModBlocks.GREEN_SMALL_PLANT)).entries((displayContext, entries) -> {
-                        entries.add(ModBlocks.BIG_BRICKS_WORN_1);
+                        entries.add(ModBlocks.BATGRASS);
+                        entries.add(ModBlocks.BLACK_FERN);
+                        entries.add(ModBlocks.BLACK_SEAWEED);
+                        entries.add(ModBlocks.BROWN_SEAWEED);
+                        entries.add(ModBlocks.GREEN_SEAWEED);
+                        entries.add(ModBlocks.BLACK_SMALL_PLANT);
+                        entries.add(ModBlocks.GREEN_SMALL_PLANT);
+                        entries.add(ModBlocks.PINK_SMALL_PLANT);
+                        entries.add(ModBlocks.GREEN_TALL_PLANT);
+                        entries.add(ModBlocks.PINK_TALL_PLANT);
+                        entries.add(ModBlocks.YELLOW_TALL_PLANT);
+                        entries.add(ModBlocks.RED_TALL_PLANT);
+                        entries.add(ModBlocks.THORNY_GROWER);
+                        entries.add(ModBlocks.LEG_PLANT);
+                        entries.add(ModBlocks.MUSHROOM);
+                        entries.add(ModBlocks.HANGING_PLANT);
+                        entries.add(ModBlocks.HANGING_PLANT_2);
+                        entries.add(ModBlocks.HANGING_PLANT_3);
+                        entries.add(ModBlocks.HANGING_PLANT_3_BASE);
+                        entries.add(ModBlocks.LARGE_DEBRIS);
+                        entries.add(ModBlocks.SMALL_DEBRIS);
+                        entries.add(ModBlocks.LICHEN);
+                        entries.add(ModBlocks.ROT_WALL);
 
 
                     }).build());
@@ -405,7 +469,37 @@ public class ModItemGroups {
             new Identifier(BlockMod.MOD_ID, "rain_world_pipes"),
             FabricItemGroup.builder().displayName(Text.translatable("itemgroup.rain_world_pipes"))
                     .icon(() -> new ItemStack(ModBlocks.BLUE_PIPE_STRAIGHT)).entries((displayContext, entries) -> {
-                        entries.add(ModBlocks.BIG_BRICKS_WORN_1);
+                        entries.add(ModBlocks.BLUE_PIPE);
+                        entries.add(ModBlocks.BLUE_PIPE_CORNER);
+                        entries.add(ModBlocks.BLUE_PIPE_ST);
+                        entries.add(ModBlocks.BLUE_PIPE_SS);
+                        entries.add(ModBlocks.BLUE_PIPE_SD);
+                        entries.add(ModBlocks.BLUE_PIPE_STRAIGHT);
+                        entries.add(ModBlocks.BROWN_PIPE);
+                        entries.add(ModBlocks.BROWN_PIPE_CORNER);
+                        entries.add(ModBlocks.BROWN_PIPE_ST);
+                        entries.add(ModBlocks.BROWN_PIPE_SS);
+                        entries.add(ModBlocks.BROWN_PIPE_SD);
+                        entries.add(ModBlocks.BROWN_PIPE_STRAIGHT);
+                        entries.add(ModBlocks.GRAY_PIPE);
+                        entries.add(ModBlocks.GRAY_PIPE_CORNER);
+                        entries.add(ModBlocks.GRAY_PIPE_ST);
+                        entries.add(ModBlocks.GRAY_PIPE_SS);
+                        entries.add(ModBlocks.GRAY_PIPE_SD);
+                        entries.add(ModBlocks.GRAY_PIPE_STRAIGHT);
+                        entries.add(ModBlocks.GREEN_PIPE);
+                        entries.add(ModBlocks.GREEN_PIPE_CORNER);
+                        entries.add(ModBlocks.RED_PIPE);
+                        entries.add(ModBlocks.RED_PIPE_CORNER);
+                        entries.add(ModBlocks.PIPE_2X2_ST);
+                        entries.add(ModBlocks.PIPE_2X2_SS);
+                        entries.add(ModBlocks.PIPE_2X2_SD);
+                        entries.add(ModBlocks.PIPE_2X2_STRAIGHT);
+                        entries.add(ModBlocks.PIPE_2X2_TOP);
+                        entries.add(ModBlocks.HORIZONTAL_PIPES);
+                        entries.add(ModBlocks.VERTICAL_PIPES);
+                        entries.add(ModBlocks.MESSY_PIPES);
+
 
 
                     }).build());
@@ -414,7 +508,52 @@ public class ModItemGroups {
             new Identifier(BlockMod.MOD_ID, "rain_world_models"),
             FabricItemGroup.builder().displayName(Text.translatable("itemgroup.rain_world_models"))
                     .icon(() -> new ItemStack(ModBlocks.BIG_GEAR)).entries((displayContext, entries) -> {
-                        entries.add(ModBlocks.BIG_BRICKS_WORN_1);
+                        entries.add(ModBlocks.AC_UNIT);
+                        entries.add(ModBlocks.BIG_GEAR);
+                        entries.add(ModBlocks.GEAR_WEIRD);
+                        entries.add(ModBlocks.GEAR_WEIRD_SMALL);
+                        entries.add(ModBlocks.VALVE_BIG);
+                        entries.add(ModBlocks.VALVE_SMALL);
+                        entries.add(ModBlocks.BOX_3X3);
+                        entries.add(ModBlocks.BROWN_FANBOX);
+                        entries.add(ModBlocks.GRAY_FANBOX);
+                        entries.add(ModBlocks.CABLE_1);
+                        entries.add(ModBlocks.CABLE_2);
+                        entries.add(ModBlocks.CABLE_3);
+                        entries.add(ModBlocks.CHAIN_1);
+                        entries.add(ModBlocks.CHAIN_2);
+                        entries.add(ModBlocks.CHAIN_3);
+                        entries.add(ModBlocks.CHAIN_4);
+                        entries.add(ModBlocks.CHAIN_5);
+                        entries.add(ModBlocks.DYSON_FAN);
+                        entries.add(ModBlocks.GIRDER);
+                        entries.add(ModBlocks.GW_BEAM_1);
+                        entries.add(ModBlocks.GW_BEAM_2);
+                        entries.add(ModBlocks.GW_BEAM_3);
+                        entries.add(ModBlocks.LEG_CYLINDER);
+                        entries.add(ModBlocks.PILLAR);
+                        entries.add(ModBlocks.SCREW_BOX_1);
+                        entries.add(ModBlocks.SCREW_BOX_2);
+                        entries.add(ModBlocks.SCREW_BOX_3);
+                        entries.add(ModBlocks.SCREW_BOX_4);
+                        entries.add(ModBlocks.STONE_HEAD_1);
+                        entries.add(ModBlocks.STONE_HEAD_2);
+                        entries.add(ModBlocks.STONE_HEAD_3);
+                        entries.add(ModBlocks.STONE_HEAD_4);
+                        entries.add(ModBlocks.SUPPORT_CLOCKWISE);
+                        entries.add(ModBlocks.SUPPORT_COUNTERCLOCKWISE);
+                        entries.add(ModBlocks.VENT_HUB_4X4_1);
+                        entries.add(ModBlocks.VENT_HUB_4X4_2);
+                        entries.add(ModBlocks.VENT_HUB_4X6_1);
+                        entries.add(ModBlocks.VENT_HUB_4X6_2);
+                        entries.add(ModBlocks.VENT_HUB_6X6_1);
+                        entries.add(ModBlocks.VENT_HUB_6X6_2);
+                        entries.add(ModBlocks.VENT_HUB_6X6_3);
+                        entries.add(ModBlocks.VENT_HUB_6X6_4);
+                        entries.add(ModBlocks.VENT_HUB_SIDE);
+                        entries.add(ModBlocks.WHEEL);
+                        entries.add(ModBlocks.X_BOX_6X6_1);
+                        entries.add(ModBlocks.X_BOX_6X6_2);
 
 
                     }).build());
