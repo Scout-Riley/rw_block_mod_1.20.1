@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "rw_block_mod:block/red_sheet_metal_edge"
-  }
-}

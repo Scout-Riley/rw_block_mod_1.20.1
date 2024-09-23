@@ -1,10 +1,7 @@
 {
   "variants": {
-    "": [
-	{  "model": "rw_block_mod:block/green_stained_glass_0"},
-	{  "model": "rw_block_mod:block/green_stained_glass_1"},
-	{  "model": "rw_block_mod:block/green_stained_glass_2"},
-	{  "model": "rw_block_mod:block/green_stained_glass_3"}
-  ]
- }
+    "": {
+      "model": "rw_block_mod:block/glass_3"
+    }
+  }
 }

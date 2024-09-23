@@ -1,60 +1,47 @@
 {
   "multipart": [
     {
-      "apply": [
-	{  "model": "rw_block_mod:block/cyan_stained_glass_pane_post_0", "uvlock": true, "y": 0},
-	{  "model": "rw_block_mod:block/cyan_stained_glass_pane_post_1", "uvlock": true, "y": 0},
-	{  "model": "rw_block_mod:block/cyan_stained_glass_pane_post_2", "uvlock": true, "y": 0},
-	{  "model": "rw_block_mod:block/cyan_stained_glass_pane_post_3", "uvlock": true, "y": 0}
-  ]
+      "apply": {
+        "model": "rw_block_mod:block/glass_pane_2_post"
+      }
     },
     {
-      "apply": [
-	{  "model": "rw_block_mod:block/cyan_stained_glass_pane_side_0", "uvlock": true, "y": 0},
-	{  "model": "rw_block_mod:block/cyan_stained_glass_pane_side_1", "uvlock": true, "y": 0},
-	{  "model": "rw_block_mod:block/cyan_stained_glass_pane_side_2", "uvlock": true, "y": 0},
-	{  "model": "rw_block_mod:block/cyan_stained_glass_pane_side_3", "uvlock": true, "y": 0}
-  ],
+      "apply": {
+        "model": "rw_block_mod:block/glass_pane_2_side"
+      },
       "when": {
         "north": "true"
       }
     },
     {
-      "apply": [
-	{  "model": "rw_block_mod:block/cyan_stained_glass_pane_side_0", "uvlock": true, "y": 90},
-	{  "model": "rw_block_mod:block/cyan_stained_glass_pane_side_1", "uvlock": true, "y": 90},
-	{  "model": "rw_block_mod:block/cyan_stained_glass_pane_side_2", "uvlock": true, "y": 90},
-	{  "model": "rw_block_mod:block/cyan_stained_glass_pane_side_3", "uvlock": true, "y": 90}
-  ],
+      "apply": {
+        "model": "rw_block_mod:block/glass_pane_2_side",
+        "y": 90
+      },
       "when": {
         "east": "true"
       }
     },
     {
-      "apply": [
-	{  "model": "rw_block_mod:block/cyan_stained_glass_pane_side_alt_0", "uvlock": true, "y": 0},
-	{  "model": "rw_block_mod:block/cyan_stained_glass_pane_side_alt_1", "uvlock": true, "y": 0},
-	{  "model": "rw_block_mod:block/cyan_stained_glass_pane_side_alt_2", "uvlock": true, "y": 0},
-	{  "model": "rw_block_mod:block/cyan_stained_glass_pane_side_alt_3", "uvlock": true, "y": 0}
-  ],
+      "apply": {
+        "model": "rw_block_mod:block/glass_pane_2_side_alt"
+      },
       "when": {
         "south": "true"
       }
     },
     {
-      "apply": [
-	{  "model": "rw_block_mod:block/cyan_stained_glass_pane_side_alt_0", "uvlock": true, "y": 90},
-	{  "model": "rw_block_mod:block/cyan_stained_glass_pane_side_alt_1", "uvlock": true, "y": 90},
-	{  "model": "rw_block_mod:block/cyan_stained_glass_pane_side_alt_2", "uvlock": true, "y": 90},
-	{  "model": "rw_block_mod:block/cyan_stained_glass_pane_side_alt_3", "uvlock": true, "y": 90}
-  ],
+      "apply": {
+        "model": "rw_block_mod:block/glass_pane_2_side_alt",
+        "y": 90
+      },
       "when": {
         "west": "true"
       }
     },
     {
       "apply": {
-        "model": "rw_block_mod:block/cyan_stained_glass_pane_noside"
+        "model": "rw_block_mod:block/glass_pane_2_noside"
       },
       "when": {
         "north": "false"
@@ -62,7 +49,7 @@
     },
     {
       "apply": {
-        "model": "rw_block_mod:block/cyan_stained_glass_pane_noside_alt"
+        "model": "rw_block_mod:block/glass_pane_2_noside_alt"
       },
       "when": {
         "east": "false"
@@ -70,7 +57,7 @@
     },
     {
       "apply": {
-        "model": "rw_block_mod:block/cyan_stained_glass_pane_noside_alt",
+        "model": "rw_block_mod:block/glass_pane_2_noside_alt",
         "y": 90
       },
       "when": {
@@ -79,7 +66,7 @@
     },
     {
       "apply": {
-        "model": "rw_block_mod:block/cyan_stained_glass_pane_noside",
+        "model": "rw_block_mod:block/glass_pane_2_noside",
         "y": 270
       },
       "when": {

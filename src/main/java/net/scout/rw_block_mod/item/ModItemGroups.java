@@ -409,8 +409,24 @@ public class ModItemGroups {
                         entries.add(ModBlocks.GLASS_2);
                         entries.add(ModBlocks.GLASS_3);
                         entries.add(ModBlocks.GLASS_4);
+                        entries.add(ModBlocks.GLASS_5);
+                        entries.add(ModBlocks.GLASS_6);
+                        entries.add(ModBlocks.GLASS_7);
+                        entries.add(ModBlocks.GLASS_8);
+                        entries.add(ModBlocks.GLASS_9);
+                        entries.add(ModBlocks.GLASS_10);
+                        entries.add(ModBlocks.GLASS_11);
+                        entries.add(ModBlocks.GLASS_PANE_1);
                         entries.add(ModBlocks.GLASS_PANE_2);
                         entries.add(ModBlocks.GLASS_PANE_3);
+                        entries.add(ModBlocks.GLASS_PANE_4);
+                        entries.add(ModBlocks.GLASS_PANE_5);
+                        entries.add(ModBlocks.GLASS_PANE_6);
+                        entries.add(ModBlocks.GLASS_PANE_7);
+                        entries.add(ModBlocks.GLASS_PANE_8);
+                        entries.add(ModBlocks.GLASS_PANE_9);
+                        entries.add(ModBlocks.GLASS_PANE_10);
+                        entries.add(ModBlocks.GLASS_PANE_11);
                         entries.add(ModBlocks.GRATE_MIDDLE);
                         entries.add(ModBlocks.GRATE_SIDE);
                         entries.add(ModBlocks.GRAY_METAL);
@@ -554,6 +570,10 @@ public class ModItemGroups {
                         entries.add(ModBlocks.WHEEL);
                         entries.add(ModBlocks.X_BOX_6X6_1);
                         entries.add(ModBlocks.X_BOX_6X6_2);
+                        entries.add(ModBlocks.X_BOX_4X6_1);
+                        entries.add(ModBlocks.X_BOX_4X6_2);
+                        entries.add(ModBlocks.X_BOX_4X4_1);
+                        entries.add(ModBlocks.X_BOX_4X4_2);
 
 
                     }).build());

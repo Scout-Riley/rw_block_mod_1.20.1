@@ -1,17 +1,7 @@
 {
   "variants": {
-    "": [
-	{  "model": "rw_block_mod:block/light_blue_stained_glass_0", "weight": 10, "x": 90, "y": 0},
-	{  "model": "rw_block_mod:block/light_blue_stained_glass_1", "weight": 10, "x": 90, "y": 0},
-	{  "model": "rw_block_mod:block/light_blue_stained_glass_2", "weight": 10, "x": 90, "y": 0},
-	{  "model": "rw_block_mod:block/light_blue_stained_glass_3", "weight": 10, "x": 90, "y": 0},
-	{  "model": "rw_block_mod:block/light_blue_stained_glass_4", "weight": 10, "x": 90, "y": 0},
-	{  "model": "rw_block_mod:block/light_blue_stained_glass_5", "weight": 10, "x": 90, "y": 0},
-	{  "model": "rw_block_mod:block/light_blue_stained_glass_6", "weight": 10, "x": 90, "y": 0},
-	{  "model": "rw_block_mod:block/light_blue_stained_glass_7", "weight": 10, "x": 90, "y": 0},
-	{  "model": "rw_block_mod:block/light_blue_stained_glass_8", "weight": 10, "x": 90, "y": 0},
-	{  "model": "rw_block_mod:block/light_blue_stained_glass_9", "weight": 10, "x": 90, "y": 0},
-	{  "model": "rw_block_mod:block/light_blue_stained_glass_10", "weight": 10, "x": 90, "y": 0}
-  ]
- }
+    "": {
+      "model": "rw_block_mod:block/glass_4"
+    }
+  }
 }

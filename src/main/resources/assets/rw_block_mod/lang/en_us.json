@@ -22,13 +22,9 @@
   "block.rw_block_mod.dyson_fan": "Dyson Fan",
   "block.rw_block_mod.box_3x3": "3x3 Box",
   "block.rw_block_mod.pillar": "Pillar",
-
   "block.rw_block_mod.gw_beam_1": "GW Beam 1",
-
   "block.rw_block_mod.gw_beam_2": "GW Beam 2",
-
   "block.rw_block_mod.gw_beam_3": "GW Beam 3",
-
   "block.rw_block_mod.vent_hub_side": "Vent Hub Side",
 
   "block.rw_block_mod.screw_box_1": "Screw Box Part 1",
@@ -41,11 +37,8 @@
   "block.rw_block_mod.screw_box_8": "Screw Box Part 8",
 
   "block.rw_block_mod.chain_1": "Chain 1",
-
   "block.rw_block_mod.chain_2": "Chain 2",
-
   "block.rw_block_mod.chain_3": "Chain 3",
-
   "block.rw_block_mod.chain_4": "Chain 4",
   "block.rw_block_mod.chain_5": "Chain 5",
   "block.rw_block_mod.cable_1": "Cable 1",
@@ -166,8 +159,24 @@
   "block.rw_block_mod.glass_2": "Glass 2",
   "block.rw_block_mod.glass_3": "Glass 3",
   "block.rw_block_mod.glass_4": "Glass 4",
+  "block.rw_block_mod.glass_5": "Glass 5",
+  "block.rw_block_mod.glass_6": "Glass 6",
+  "block.rw_block_mod.glass_7": "Glass 7",
+  "block.rw_block_mod.glass_8": "Glass 8",
+  "block.rw_block_mod.glass_9": "Glass 9",
+  "block.rw_block_mod.glass_10": "Glass 10",
+  "block.rw_block_mod.glass_11": "Glass 11",
+  "block.rw_block_mod.glass_pane_1": "Glass Pane 1",
   "block.rw_block_mod.glass_pane_2": "Glass Pane 2",
   "block.rw_block_mod.glass_pane_3": "Glass Pane 3",
+  "block.rw_block_mod.glass_pane_4": "Glass Pane 4",
+  "block.rw_block_mod.glass_pane_5": "Glass Pane 5",
+  "block.rw_block_mod.glass_pane_6": "Glass Pane 6",
+  "block.rw_block_mod.glass_pane_7": "Glass Pane 7",
+  "block.rw_block_mod.glass_pane_8": "Glass Pane 8",
+  "block.rw_block_mod.glass_pane_9": "Glass Pane 9",
+  "block.rw_block_mod.glass_pane_10": "Glass Pane 10",
+  "block.rw_block_mod.glass_pane_11": "Glass Pane 11",
   "block.rw_block_mod.green_pipe_block_straight": "Green Pipe Block",
   "block.rw_block_mod.green_pipe_block_corner": "Green Pipe Block Corner",
   "block.rw_block_mod.gray_pipe_block_straight": "Gray Pipe Block",

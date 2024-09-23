@@ -256,18 +256,51 @@ public class ModBlocks {
     public static final Block RW_DIRT = registerBlock("rw_dirt",
             new Block (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
     public static final Block GLASS_1 = registerBlock("glass_1",
-            new GlassBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
+            new GlassBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
     public static final Block GLASS_2 = registerBlock("glass_2",
-            new GlassBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
+            new GlassBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
     public static final Block GLASS_3 = registerBlock("glass_3",
-            new GlassBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
+            new GlassBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
     public static final Block GLASS_4 = registerBlock("glass_4",
-            new GlassBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
+            new GlassBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block GLASS_5 = registerBlock("glass_5",
+            new GlassBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block GLASS_6 = registerBlock("glass_6",
+            new GlassBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block GLASS_7 = registerBlock("glass_7",
+            new GlassBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block GLASS_8 = registerBlock("glass_8",
+            new GlassBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block GLASS_9 = registerBlock("glass_9",
+            new GlassBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block GLASS_10 = registerBlock("glass_10",
+            new GlassBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block GLASS_11 = registerBlock("glass_11",
+            new GlassBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
 
+
+    public static final Block GLASS_PANE_1 = registerBlock("glass_pane_1",
+            new PaneBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
     public static final Block GLASS_PANE_2 = registerBlock("glass_pane_2",
-            new PaneBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
+            new PaneBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
     public static final Block GLASS_PANE_3 = registerBlock("glass_pane_3",
-            new PaneBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK)));
+            new PaneBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block GLASS_PANE_4 = registerBlock("glass_pane_4",
+            new PaneBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block GLASS_PANE_5 = registerBlock("glass_pane_5",
+            new PaneBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block GLASS_PANE_6 = registerBlock("glass_pane_6",
+            new PaneBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block GLASS_PANE_7 = registerBlock("glass_pane_7",
+            new PaneBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block GLASS_PANE_8 = registerBlock("glass_pane_8",
+            new PaneBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block GLASS_PANE_9 = registerBlock("glass_pane_9",
+            new PaneBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block GLASS_PANE_10 = registerBlock("glass_pane_10",
+            new PaneBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
+    public static final Block GLASS_PANE_11 = registerBlock("glass_pane_11",
+            new PaneBlock (FabricBlockSettings.copyOf(Blocks.GOLD_BLOCK).nonOpaque()));
 
     public static final Block GREEN_PIPE = registerBlock("green_pipe_block_straight",
             new PillarBlock (FabricBlockSettings.copyOf(Blocks.COBBLESTONE)));
@@ -290,9 +323,9 @@ public class ModBlocks {
     public static final Block RED_PIPE_CORNER = registerBlock("red_pipe_block_corner",
             new PillarBlock (FabricBlockSettings.copyOf(Blocks.COBBLESTONE)));
     public static final Block GRATE_SIDE = registerBlock("grate_side",
-            new PillarBlock (FabricBlockSettings.copyOf(Blocks.COBBLESTONE).nonOpaque()));
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.COBBLESTONE).nonOpaque()));
     public static final Block GRATE_MIDDLE = registerBlock("grate_middle",
-            new PillarBlock (FabricBlockSettings.copyOf(Blocks.COBBLESTONE).nonOpaque()));
+            new GlazedTerracottaBlock (FabricBlockSettings.copyOf(Blocks.COBBLESTONE).nonOpaque()));
 
 
     public static final Block RED_SHIPMENT = registerBlock("red_shipment",
